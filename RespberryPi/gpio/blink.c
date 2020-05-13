@@ -10,24 +10,24 @@ int ledControl(int gpio)
 	int fd;
 	char buf[BUFSIZ];
 
-	fd = open("sys/class/gpio/export", O_WRONLY);
+	fd = open("/sys/class/gpio/export", O_WRONLY);
 	sprintf(buf, "%d", gpio);
 	write(fd, buf, strlen(buf));
 	close(fd);
 
-	sprintf(buf, "sys/class/gpio/gpio%d\direction", gpio);
+	sprintf(buf, "/sys/class/gpio/gpio%d\direction", gpio);
 	fd = open(buf, O_WRONLY);
 	write(fd, "out", 4);
 	close(fd);
 
-	sprintf(buf, "sys/class/gpio/gpio%d\value", gpio);
+	sprintf(buf, "/sys/class/gpio/gpio%d\value", gpio);
 	fd = open(buf, O_WRONLY);
 	write(fd, "1", 2);
 	close(fd);
 
 	getchar();
 
-	sprintf(buf, "sys/class/gpio/gpio%d\value", gpio);
+	sprintf(buf, "/sys/class/gpio/gpio%d\value", gpio);
 	fd = open(buf, O_WRONLY);
 	write(fd, "0", 2); // LED OFF 
 
@@ -46,7 +46,7 @@ int ledControl(int gpio)
 	}
 	close(fd);
 
-	fd = open("sys/class/gpio/gpio%d/unexport", O_WRONLY);
+	fd = open("/sys/class/gpio/gpio%d/unexport", O_WRONLY);
 	sprintf(buf, "%d", gpio);
 	write(fd, buf, strlen(buf));
 	close(fd);
