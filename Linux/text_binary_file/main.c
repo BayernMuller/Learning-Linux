@@ -21,6 +21,11 @@ void usage(char* cmd)
 void writeAsciiFile(int count, struct student* pSp)
 {
 	int fd = open("AsciiFile", O_RDWR | O_CREAT, 0644);
+	if (fd == -1)
+	{
+		printf("file open error\n");
+		exit(0);
+	}
 	char buf[1024];
 	for (int i = 0; i < count; i++)
 	{
@@ -34,6 +39,11 @@ void writeAsciiFile(int count, struct student* pSp)
 void writeBinaryFile(int count, struct student *pSp)
 {
 	int fd = open("BinaryFile", O_RDWR | O_CREAT, 0644);
+	if (fd == -1)
+	{
+		printf("file open error\n");
+		exit(0);
+	}
 	write(fd, pSp, sizeof(struct student) * count);
 	close(fd);
 }
