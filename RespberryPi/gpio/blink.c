@@ -15,7 +15,7 @@ int ledControl(int gpio)
 	write(fd, buf, strlen(buf));
 	close(fd);
 
-	sprintf(buf, "/sys/class/gpio/gpio%d\direction", gpio);
+	sprintf(buf, "/sys/class/gpio/gpio%d/direction", gpio);
 	fd = open(buf, O_WRONLY);
 	write(fd, "out", 4);
 	close(fd);
