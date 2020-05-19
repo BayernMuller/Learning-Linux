@@ -17,9 +17,9 @@ int ledPwmControl(int gpio)
 int ledControl()
 {
 	static int led_list[] = { 1,2,3,4,5,4,3,2 };
-	for (int i = 0; i  8; i++)
+	for (int i = 0; i < 8; i++)
 	{
-		ledPwmControl(i);
+		ledPwmControl(led_list[i]);
 	}
 }
 
