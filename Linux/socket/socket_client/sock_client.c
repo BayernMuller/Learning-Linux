@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 {
 	int sock;
 	struct sockaddr_in server;
-	char message[1000], server_reply[2000];
+	char message[1000];
 
 	if (argc != 3)
 	{
@@ -20,6 +20,7 @@ int main(int argc, char *argv[])
 	if (sock == -1)
 	{
 		printf("Could not create socket");
+		return -1;
 	}
 	puts("Socket created");
 
