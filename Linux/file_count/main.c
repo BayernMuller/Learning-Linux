@@ -24,10 +24,8 @@ int main(int argc, char* argv[])
 		return -1;
 	}
 	
-	char filename[100];
 	for (int i = 1; i < argc; i++)
 	{
-	//	strcpy(filename, argv[i]);
 		printCount(argv[i]);
 	}	
 }
