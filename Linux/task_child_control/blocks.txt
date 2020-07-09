@@ -1,0 +1,4 @@
+child.out ; I ; am ; first ;
+child.out ; I ; am ; second ;
+child.out ; Banana ;
+child.out ; Bayern ; Munich
