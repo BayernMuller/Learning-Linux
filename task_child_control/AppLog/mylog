@@ -1,0 +1,1624 @@
+2020.07.09 17:21:37.439  child.out sleep 19
+2020.07.09 17:21:37.439  child.out sleep 17
+2020.07.09 17:21:37.439  child.out sleep 4
+2020.07.09 17:21:37.439  child.out sleep 4
+2020.07.09 17:21:42.439  child.out I am second 
+2020.07.09 17:21:42.440  child.out EXIT(238)
+2020.07.09 17:21:42.440  child.out Bayern Munich  
+2020.07.09 17:21:42.440  child.out EXIT(118)
+2020.07.09 17:21:42.448  child.out sleep 18
+2020.07.09 17:21:42.449  child.out sleep 12
+2020.07.09 17:21:55.440  child.out Banana   
+2020.07.09 17:21:55.440  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:21:55.450  child.out Bayern Munich  
+2020.07.09 17:21:55.450  child.out EXIT(56)
+2020.07.09 17:21:55.458  child.out sleep 9
+2020.07.09 17:21:55.584  child.out sleep 10
+2020.07.09 17:21:57.439  child.out I am first 
+2020.07.09 17:21:57.439  child.out SIGNAL(15).Terminated
+2020.07.09 17:21:57.446  child.out sleep 14
+2020.07.09 17:22:01.449  child.out I am second 
+2020.07.09 17:22:01.449  child.out EXIT(149)
+2020.07.09 17:22:01.457  child.out sleep 6
+2020.07.09 17:22:05.459  child.out Bayern Munich  
+2020.07.09 17:22:05.459  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:22:05.619  child.out sleep 1
+2020.07.09 17:22:06.586  child.out Banana   
+2020.07.09 17:22:06.586  child.out EXIT(221)
+2020.07.09 17:22:06.594  child.out sleep 10
+2020.07.09 17:22:07.620  child.out Bayern Munich  
+2020.07.09 17:22:07.620  child.out SIGNAL(6).Aborted
+2020.07.09 17:22:07.753  child.out sleep 2
+2020.07.09 17:22:08.458  child.out I am second 
+2020.07.09 17:22:08.458  child.out EXIT(171)
+2020.07.09 17:22:08.466  child.out sleep 4
+2020.07.09 17:22:10.754  child.out Bayern Munich  
+2020.07.09 17:22:10.754  child.out EXIT(27)
+2020.07.09 17:22:10.762  child.out sleep 15
+2020.07.09 17:22:12.448  child.out I am first 
+2020.07.09 17:22:12.448  child.out EXIT(27)
+2020.07.09 17:22:12.455  child.out sleep 5
+2020.07.09 17:22:13.467  child.out I am second 
+2020.07.09 17:22:13.467  child.out EXIT(204)
+2020.07.09 17:22:13.476  child.out sleep 16
+2020.07.09 17:22:17.595  child.out Banana   
+2020.07.09 17:22:17.595  child.out EXIT(219)
+2020.07.09 17:22:17.599  child.out sleep 7
+2020.07.09 17:22:18.456  child.out I am first 
+2020.07.09 17:22:18.456  child.out SIGNAL(3).Quit
+2020.07.09 17:22:18.609  child.out sleep 6
+2020.07.09 17:22:25.600  child.out Banana   
+2020.07.09 17:22:25.600  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:22:25.610  child.out I am first 
+2020.07.09 17:22:25.610  child.out EXIT(235)
+2020.07.09 17:22:25.618  child.out sleep 15
+2020.07.09 17:22:25.749  child.out sleep 1
+2020.07.09 17:22:26.763  child.out Bayern Munich  
+2020.07.09 17:22:26.763  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:22:26.915  child.out sleep 6
+2020.07.09 17:22:27.749  child.out Banana   
+2020.07.09 17:22:27.749  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:22:27.907  child.out sleep 4
+2020.07.09 17:22:30.477  child.out I am second 
+2020.07.09 17:22:30.477  child.out EXIT(234)
+2020.07.09 17:22:30.484  child.out sleep 14
+2020.07.09 17:22:32.907  child.out Banana   
+2020.07.09 17:22:32.907  child.out EXIT(226)
+2020.07.09 17:22:32.915  child.out sleep 10
+2020.07.09 17:22:33.915  child.out Bayern Munich  
+2020.07.09 17:22:33.915  child.out EXIT(133)
+2020.07.09 17:22:33.923  child.out sleep 16
+2020.07.09 17:22:41.619  child.out I am first 
+2020.07.09 17:22:41.619  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:22:41.747  child.out sleep 4
+2020.07.09 17:22:43.916  child.out Banana   
+2020.07.09 17:22:43.916  child.out EXIT(225)
+2020.07.09 17:22:43.921  child.out sleep 16
+2020.07.09 17:22:45.485  child.out I am second 
+2020.07.09 17:22:45.485  child.out EXIT(93)
+2020.07.09 17:22:45.493  child.out sleep 6
+2020.07.09 17:22:46.748  child.out I am first 
+2020.07.09 17:22:46.748  child.out EXIT(66)
+2020.07.09 17:22:46.757  child.out sleep 11
+2020.07.09 17:22:50.923  child.out Bayern Munich  
+2020.07.09 17:22:50.923  child.out EXIT(164)
+2020.07.09 17:22:50.932  child.out sleep 3
+2020.07.09 17:22:52.493  child.out I am second 
+2020.07.09 17:22:52.493  child.out EXIT(243)
+2020.07.09 17:22:52.497  child.out sleep 7
+2020.07.09 17:22:54.933  child.out Bayern Munich  
+2020.07.09 17:22:54.933  child.out SIGNAL(7).Bus error
+2020.07.09 17:22:55.074  child.out sleep 11
+2020.07.09 17:22:58.757  child.out I am first 
+2020.07.09 17:22:58.757  child.out SIGNAL(6).Aborted
+2020.07.09 17:22:58.881  child.out sleep 5
+2020.07.09 17:23:00.498  child.out I am second 
+2020.07.09 17:23:00.498  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:23:00.501  child.out sleep 10
+2020.07.09 17:23:00.922  child.out Banana   
+2020.07.09 17:23:00.922  child.out EXIT(210)
+2020.07.09 17:23:00.925  child.out sleep 13
+2020.07.09 17:23:04.882  child.out I am first 
+2020.07.09 17:23:04.882  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:23:04.890  child.out sleep 12
+2020.07.09 17:23:07.075  child.out Bayern Munich  
+2020.07.09 17:23:07.075  child.out SIGNAL(1).Hangup
+2020.07.09 17:23:07.085  child.out sleep 17
+2020.07.09 17:23:11.501  child.out I am second 
+2020.07.09 17:23:11.501  child.out EXIT(203)
+2020.07.09 17:23:11.510  child.out sleep 17
+2020.07.09 17:23:14.926  child.out Banana   
+2020.07.09 17:23:14.926  child.out SIGNAL(7).Bus error
+2020.07.09 17:23:15.083  child.out sleep 12
+2020.07.09 17:23:17.891  child.out I am first 
+2020.07.09 17:23:17.892  child.out EXIT(254)
+2020.07.09 17:23:17.896  child.out sleep 9
+2020.07.09 17:23:25.086  child.out Bayern Munich  
+2020.07.09 17:23:25.086  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:23:25.266  child.out sleep 16
+2020.07.09 17:23:27.896  child.out I am first 
+2020.07.09 17:23:27.896  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:23:28.051  child.out sleep 10
+2020.07.09 17:23:28.084  child.out Banana   
+2020.07.09 17:23:28.084  child.out EXIT(20)
+2020.07.09 17:23:28.088  child.out sleep 7
+2020.07.09 17:23:29.512  child.out I am second 
+2020.07.09 17:23:29.512  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:23:29.685  child.out sleep 5
+2020.07.09 17:23:35.685  child.out I am second 
+2020.07.09 17:23:35.685  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:23:35.829  child.out sleep 0
+2020.07.09 17:23:36.090  child.out Banana   
+2020.07.09 17:23:36.090  child.out SIGNAL(9).Killed
+2020.07.09 17:23:36.098  child.out sleep 11
+2020.07.09 17:23:36.830  child.out I am second 
+2020.07.09 17:23:36.830  child.out EXIT(140)
+2020.07.09 17:23:36.834  child.out sleep 4
+2020.07.09 17:23:39.052  child.out I am first 
+2020.07.09 17:23:39.052  child.out EXIT(159)
+2020.07.09 17:23:39.060  child.out sleep 15
+2020.07.09 17:23:41.835  child.out I am second 
+2020.07.09 17:23:41.835  child.out EXIT(76)
+2020.07.09 17:23:41.842  child.out sleep 17
+2020.07.09 17:23:42.267  child.out Bayern Munich  
+2020.07.09 17:23:42.267  child.out EXIT(2)
+2020.07.09 17:23:42.275  child.out sleep 15
+2020.07.09 17:23:48.098  child.out Banana   
+2020.07.09 17:23:48.098  child.out SIGNAL(6).Aborted
+2020.07.09 17:23:48.228  child.out sleep 9
+2020.07.09 17:23:55.060  child.out I am first 
+2020.07.09 17:23:55.060  child.out SIGNAL(3).Quit
+2020.07.09 17:23:55.188  child.out sleep 13
+2020.07.09 17:23:58.228  child.out Banana   
+2020.07.09 17:23:58.228  child.out SIGNAL(15).Terminated
+2020.07.09 17:23:58.242  child.out sleep 19
+2020.07.09 17:23:58.276  child.out Bayern Munich  
+2020.07.09 17:23:58.276  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:23:58.412  child.out sleep 17
+2020.07.09 17:23:59.843  child.out I am second 
+2020.07.09 17:23:59.844  child.out SIGNAL(9).Killed
+2020.07.09 17:23:59.851  child.out sleep 18
+2020.07.09 17:24:09.188  child.out I am first 
+2020.07.09 17:24:09.189  child.out SIGNAL(7).Bus error
+2020.07.09 17:24:09.331  child.out sleep 3
+2020.07.09 17:24:13.332  child.out I am first 
+2020.07.09 17:24:13.332  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:24:13.335  child.out sleep 4
+2020.07.09 17:24:16.412  child.out Bayern Munich  
+2020.07.09 17:24:16.413  child.out SIGNAL(9).Killed
+2020.07.09 17:24:16.420  child.out sleep 5
+2020.07.09 17:24:18.243  child.out Banana   
+2020.07.09 17:24:18.243  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:24:18.250  child.out sleep 15
+2020.07.09 17:24:18.336  child.out I am first 
+2020.07.09 17:24:18.336  child.out EXIT(0)
+2020.07.09 17:24:18.343  child.out sleep 6
+2020.07.09 17:24:18.852  child.out I am second 
+2020.07.09 17:24:18.852  child.out EXIT(21)
+2020.07.09 17:24:18.859  child.out sleep 8
+2020.07.09 17:24:22.421  child.out Bayern Munich  
+2020.07.09 17:24:22.422  child.out SIGNAL(3).Quit
+2020.07.09 17:24:22.545  child.out sleep 0
+2020.07.09 17:24:23.545  child.out Bayern Munich  
+2020.07.09 17:24:23.545  child.out EXIT(252)
+2020.07.09 17:24:23.552  child.out sleep 14
+2020.07.09 17:24:25.344  child.out I am first 
+2020.07.09 17:24:25.344  child.out EXIT(67)
+2020.07.09 17:24:25.353  child.out sleep 12
+2020.07.09 17:24:27.860  child.out I am second 
+2020.07.09 17:24:27.860  child.out EXIT(194)
+2020.07.09 17:24:27.868  child.out sleep 12
+2020.07.09 17:24:34.251  child.out Banana   
+2020.07.09 17:24:34.251  child.out SIGNAL(3).Quit
+2020.07.09 17:24:34.363  child.out sleep 19
+2020.07.09 17:24:38.354  child.out I am first 
+2020.07.09 17:24:38.354  child.out EXIT(60)
+2020.07.09 17:24:38.362  child.out sleep 10
+2020.07.09 17:24:38.553  child.out Bayern Munich  
+2020.07.09 17:24:38.553  child.out EXIT(107)
+2020.07.09 17:24:38.561  child.out sleep 5
+2020.07.09 17:24:40.869  child.out I am second 
+2020.07.09 17:24:40.869  child.out EXIT(208)
+2020.07.09 17:24:40.877  child.out sleep 5
+2020.07.09 17:24:44.562  child.out Bayern Munich  
+2020.07.09 17:24:44.562  child.out SIGNAL(3).Quit
+2020.07.09 17:24:44.726  child.out sleep 9
+2020.07.09 17:24:46.878  child.out I am second 
+2020.07.09 17:24:46.878  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:24:47.013  child.out sleep 5
+2020.07.09 17:24:49.363  child.out I am first 
+2020.07.09 17:24:49.363  child.out EXIT(63)
+2020.07.09 17:24:49.372  child.out sleep 19
+2020.07.09 17:24:53.014  child.out I am second 
+2020.07.09 17:24:53.014  child.out SIGNAL(3).Quit
+2020.07.09 17:24:53.154  child.out sleep 2
+2020.07.09 17:24:54.363  child.out Banana   
+2020.07.09 17:24:54.363  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:24:54.372  child.out sleep 16
+2020.07.09 17:24:54.727  child.out Bayern Munich  
+2020.07.09 17:24:54.727  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:24:54.736  child.out sleep 3
+2020.07.09 17:24:56.156  child.out I am second 
+2020.07.09 17:24:56.156  child.out EXIT(135)
+2020.07.09 17:24:56.164  child.out sleep 18
+2020.07.09 17:24:58.737  child.out Bayern Munich  
+2020.07.09 17:24:58.737  child.out SIGNAL(7).Bus error
+2020.07.09 17:24:58.887  child.out sleep 19
+2020.07.09 17:25:09.372  child.out I am first 
+2020.07.09 17:25:09.373  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:25:09.380  child.out sleep 5
+2020.07.09 17:25:11.373  child.out Banana   
+2020.07.09 17:25:11.373  child.out EXIT(38)
+2020.07.09 17:25:11.382  child.out sleep 13
+2020.07.09 17:25:15.165  child.out I am second 
+2020.07.09 17:25:15.165  child.out EXIT(97)
+2020.07.09 17:25:15.175  child.out sleep 8
+2020.07.09 17:25:15.381  child.out I am first 
+2020.07.09 17:25:15.381  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:25:15.390  child.out sleep 6
+2020.07.09 17:25:18.889  child.out Bayern Munich  
+2020.07.09 17:25:18.889  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:25:19.026  child.out sleep 15
+2020.07.09 17:25:22.391  child.out I am first 
+2020.07.09 17:25:22.391  child.out EXIT(133)
+2020.07.09 17:25:22.400  child.out sleep 11
+2020.07.09 17:25:24.176  child.out I am second 
+2020.07.09 17:25:24.176  child.out EXIT(28)
+2020.07.09 17:25:24.180  child.out sleep 17
+2020.07.09 17:25:25.383  child.out Banana   
+2020.07.09 17:25:25.383  child.out SIGNAL(2).Interrupt
+2020.07.09 17:25:25.387  child.out sleep 12
+2020.07.09 17:25:34.400  child.out I am first 
+2020.07.09 17:25:34.400  child.out SIGNAL(6).Aborted
+2020.07.09 17:25:34.542  child.out sleep 16
+2020.07.09 17:25:35.028  child.out Bayern Munich  
+2020.07.09 17:25:35.028  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:25:35.039  child.out sleep 12
+2020.07.09 17:25:38.388  child.out Banana   
+2020.07.09 17:25:38.388  child.out EXIT(114)
+2020.07.09 17:25:38.398  child.out sleep 5
+2020.07.09 17:25:42.181  child.out I am second 
+2020.07.09 17:25:42.181  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:25:42.319  child.out sleep 8
+2020.07.09 17:25:44.399  child.out Banana   
+2020.07.09 17:25:44.399  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:25:44.406  child.out sleep 16
+2020.07.09 17:25:48.040  child.out Bayern Munich  
+2020.07.09 17:25:48.040  child.out EXIT(76)
+2020.07.09 17:25:48.050  child.out sleep 4
+2020.07.09 17:25:51.320  child.out I am second 
+2020.07.09 17:25:51.320  child.out EXIT(126)
+2020.07.09 17:25:51.330  child.out sleep 9
+2020.07.09 17:25:51.543  child.out I am first 
+2020.07.09 17:25:51.543  child.out EXIT(38)
+2020.07.09 17:25:51.546  child.out sleep 19
+2020.07.09 17:25:53.052  child.out Bayern Munich  
+2020.07.09 17:25:53.052  child.out EXIT(104)
+2020.07.09 17:25:53.060  child.out sleep 4
+2020.07.09 17:25:58.061  child.out Bayern Munich  
+2020.07.09 17:25:58.061  child.out EXIT(32)
+2020.07.09 17:25:58.065  child.out sleep 18
+2020.07.09 17:26:01.330  child.out I am second 
+2020.07.09 17:26:01.330  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:26:01.339  child.out sleep 12
+2020.07.09 17:26:01.407  child.out Banana   
+2020.07.09 17:26:01.407  child.out EXIT(40)
+2020.07.09 17:26:01.410  child.out sleep 13
+2020.07.09 17:26:11.547  child.out I am first 
+2020.07.09 17:26:11.547  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:26:11.684  child.out sleep 0
+2020.07.09 17:26:12.685  child.out I am first 
+2020.07.09 17:26:12.685  child.out EXIT(220)
+2020.07.09 17:26:12.689  child.out sleep 17
+2020.07.09 17:26:14.340  child.out I am second 
+2020.07.09 17:26:14.341  child.out EXIT(192)
+2020.07.09 17:26:14.343  child.out sleep 5
+2020.07.09 17:26:15.411  child.out Banana   
+2020.07.09 17:26:15.411  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:26:15.418  child.out sleep 1
+2020.07.09 17:26:17.066  child.out Bayern Munich  
+2020.07.09 17:26:17.066  child.out EXIT(255)
+2020.07.09 17:26:17.073  child.out sleep 0
+2020.07.09 17:26:17.419  child.out Banana   
+2020.07.09 17:26:17.419  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:26:17.585  child.out sleep 10
+2020.07.09 17:26:18.075  child.out Bayern Munich  
+2020.07.09 17:26:18.075  child.out EXIT(58)
+2020.07.09 17:26:18.078  child.out sleep 5
+2020.07.09 17:26:20.345  child.out I am second 
+2020.07.09 17:26:20.345  child.out SIGNAL(3).Quit
+2020.07.09 17:26:20.491  child.out sleep 17
+2020.07.09 17:26:24.078  child.out Bayern Munich  
+2020.07.09 17:26:24.078  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:26:24.225  child.out sleep 7
+2020.07.09 17:26:28.586  child.out Banana   
+2020.07.09 17:26:28.586  child.out EXIT(121)
+2020.07.09 17:26:28.591  child.out sleep 15
+2020.07.09 17:26:30.689  child.out I am first 
+2020.07.09 17:26:30.689  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:26:30.836  child.out sleep 13
+2020.07.09 17:26:32.225  child.out Bayern Munich  
+2020.07.09 17:26:32.225  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:26:32.395  child.out sleep 9
+2020.07.09 17:26:38.492  child.out I am second 
+2020.07.09 17:26:38.492  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:26:38.642  child.out sleep 6
+2020.07.09 17:26:42.396  child.out Bayern Munich  
+2020.07.09 17:26:42.396  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:26:42.551  child.out sleep 14
+2020.07.09 17:26:44.592  child.out Banana   
+2020.07.09 17:26:44.592  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:26:44.724  child.out sleep 4
+2020.07.09 17:26:44.836  child.out I am first 
+2020.07.09 17:26:44.836  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:26:44.844  child.out sleep 19
+2020.07.09 17:26:45.643  child.out I am second 
+2020.07.09 17:26:45.643  child.out EXIT(139)
+2020.07.09 17:26:45.651  child.out sleep 1
+2020.07.09 17:26:47.652  child.out I am second 
+2020.07.09 17:26:47.652  child.out SIGNAL(1).Hangup
+2020.07.09 17:26:47.660  child.out sleep 4
+2020.07.09 17:26:49.725  child.out Banana   
+2020.07.09 17:26:49.725  child.out EXIT(70)
+2020.07.09 17:26:49.730  child.out sleep 6
+2020.07.09 17:26:52.661  child.out I am second 
+2020.07.09 17:26:52.661  child.out EXIT(252)
+2020.07.09 17:26:52.671  child.out sleep 13
+2020.07.09 17:26:56.731  child.out Banana   
+2020.07.09 17:26:56.731  child.out EXIT(31)
+2020.07.09 17:26:56.740  child.out sleep 19
+2020.07.09 17:26:57.551  child.out Bayern Munich  
+2020.07.09 17:26:57.551  child.out EXIT(179)
+2020.07.09 17:26:57.559  child.out sleep 13
+2020.07.09 17:27:04.844  child.out I am first 
+2020.07.09 17:27:04.844  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:27:04.989  child.out sleep 5
+2020.07.09 17:27:06.672  child.out I am second 
+2020.07.09 17:27:06.672  child.out SIGNAL(2).Interrupt
+2020.07.09 17:27:06.681  child.out sleep 16
+2020.07.09 17:27:10.990  child.out I am first 
+2020.07.09 17:27:10.990  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:27:11.121  child.out sleep 3
+2020.07.09 17:27:11.560  child.out Bayern Munich  
+2020.07.09 17:27:11.560  child.out SIGNAL(2).Interrupt
+2020.07.09 17:27:11.566  child.out sleep 3
+2020.07.09 17:27:15.122  child.out I am first 
+2020.07.09 17:27:15.122  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:27:15.130  child.out sleep 13
+2020.07.09 17:27:15.567  child.out Bayern Munich  
+2020.07.09 17:27:15.567  child.out SIGNAL(7).Bus error
+2020.07.09 17:27:15.715  child.out sleep 8
+2020.07.09 17:27:16.741  child.out Banana   
+2020.07.09 17:27:16.741  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:27:16.755  child.out sleep 5
+2020.07.09 17:27:22.756  child.out Banana   
+2020.07.09 17:27:22.756  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:27:22.931  child.out sleep 18
+2020.07.09 17:27:23.682  child.out I am second 
+2020.07.09 17:27:23.683  child.out EXIT(112)
+2020.07.09 17:27:23.690  child.out sleep 10
+2020.07.09 17:27:24.716  child.out Bayern Munich  
+2020.07.09 17:27:24.716  child.out EXIT(228)
+2020.07.09 17:27:24.723  child.out sleep 5
+2020.07.09 17:27:29.130  child.out I am first 
+2020.07.09 17:27:29.130  child.out SIGNAL(2).Interrupt
+2020.07.09 17:27:29.139  child.out sleep 13
+2020.07.09 17:27:30.725  child.out Bayern Munich  
+2020.07.09 17:27:30.725  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:27:30.883  child.out sleep 2
+2020.07.09 17:27:33.883  child.out Bayern Munich  
+2020.07.09 17:27:33.883  child.out EXIT(21)
+2020.07.09 17:27:33.887  child.out sleep 16
+2020.07.09 17:27:34.690  child.out I am second 
+2020.07.09 17:27:34.691  child.out EXIT(17)
+2020.07.09 17:27:34.699  child.out sleep 5
+2020.07.09 17:27:40.700  child.out I am second 
+2020.07.09 17:27:40.700  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:27:40.868  child.out sleep 19
+2020.07.09 17:27:41.931  child.out Banana   
+2020.07.09 17:27:41.931  child.out EXIT(173)
+2020.07.09 17:27:41.941  child.out sleep 2
+2020.07.09 17:27:43.140  child.out I am first 
+2020.07.09 17:27:43.140  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:27:43.147  child.out sleep 4
+2020.07.09 17:27:44.942  child.out Banana   
+2020.07.09 17:27:44.942  child.out EXIT(131)
+2020.07.09 17:27:44.951  child.out sleep 7
+2020.07.09 17:27:48.148  child.out I am first 
+2020.07.09 17:27:48.148  child.out EXIT(2)
+2020.07.09 17:27:48.155  child.out sleep 18
+2020.07.09 17:27:50.888  child.out Bayern Munich  
+2020.07.09 17:27:50.888  child.out EXIT(154)
+2020.07.09 17:27:50.896  child.out sleep 4
+2020.07.09 17:27:52.952  child.out Banana   
+2020.07.09 17:27:52.952  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:27:52.961  child.out sleep 3
+2020.07.09 17:27:55.897  child.out Bayern Munich  
+2020.07.09 17:27:55.897  child.out EXIT(48)
+2020.07.09 17:27:55.905  child.out sleep 16
+2020.07.09 17:27:56.962  child.out Banana   
+2020.07.09 17:27:56.962  child.out SIGNAL(2).Interrupt
+2020.07.09 17:27:56.970  child.out sleep 4
+2020.07.09 17:28:00.868  child.out I am second 
+2020.07.09 17:28:00.868  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:28:01.003  child.out sleep 6
+2020.07.09 17:28:01.971  child.out Banana   
+2020.07.09 17:28:01.971  child.out EXIT(162)
+2020.07.09 17:28:01.975  child.out sleep 15
+2020.07.09 17:28:07.155  child.out I am first 
+2020.07.09 17:28:07.155  child.out EXIT(167)
+2020.07.09 17:28:07.158  child.out sleep 19
+2020.07.09 17:28:08.004  child.out I am second 
+2020.07.09 17:28:08.004  child.out EXIT(241)
+2020.07.09 17:28:08.012  child.out sleep 17
+2020.07.09 17:28:12.905  child.out Bayern Munich  
+2020.07.09 17:28:12.905  child.out EXIT(214)
+2020.07.09 17:28:12.909  child.out sleep 12
+2020.07.09 17:28:17.976  child.out Banana   
+2020.07.09 17:28:17.976  child.out SIGNAL(3).Quit
+2020.07.09 17:28:18.113  child.out sleep 16
+2020.07.09 17:28:25.909  child.out Bayern Munich  
+2020.07.09 17:28:25.909  child.out EXIT(186)
+2020.07.09 17:28:25.918  child.out sleep 12
+2020.07.09 17:28:26.013  child.out I am second 
+2020.07.09 17:28:26.013  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:28:26.167  child.out sleep 11
+2020.07.09 17:28:27.159  child.out I am first 
+2020.07.09 17:28:27.159  child.out SIGNAL(15).Terminated
+2020.07.09 17:28:27.164  child.out sleep 8
+2020.07.09 17:28:35.114  child.out Banana   
+2020.07.09 17:28:35.114  child.out EXIT(128)
+2020.07.09 17:28:35.117  child.out sleep 15
+2020.07.09 17:28:36.165  child.out I am first 
+2020.07.09 17:28:36.165  child.out EXIT(68)
+2020.07.09 17:28:36.168  child.out sleep 13
+2020.07.09 17:28:38.168  child.out I am second 
+2020.07.09 17:28:38.168  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:28:38.309  child.out sleep 15
+2020.07.09 17:28:38.918  child.out Bayern Munich  
+2020.07.09 17:28:38.918  child.out EXIT(208)
+2020.07.09 17:28:38.922  child.out sleep 8
+2020.07.09 17:28:47.923  child.out Bayern Munich  
+2020.07.09 17:28:47.923  child.out EXIT(242)
+2020.07.09 17:28:47.927  child.out sleep 0
+2020.07.09 17:28:48.927  child.out Bayern Munich  
+2020.07.09 17:28:48.927  child.out EXIT(100)
+2020.07.09 17:28:48.929  child.out sleep 12
+2020.07.09 17:28:50.169  child.out I am first 
+2020.07.09 17:28:50.169  child.out SIGNAL(7).Bus error
+2020.07.09 17:28:50.301  child.out sleep 4
+2020.07.09 17:28:51.117  child.out Banana   
+2020.07.09 17:28:51.117  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:28:51.121  child.out sleep 19
+2020.07.09 17:28:54.310  child.out I am second 
+2020.07.09 17:28:54.310  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:28:54.314  child.out sleep 14
+2020.07.09 17:28:55.302  child.out I am first 
+2020.07.09 17:28:55.302  child.out EXIT(50)
+2020.07.09 17:28:55.305  child.out sleep 10
+2020.07.09 17:29:01.930  child.out Bayern Munich  
+2020.07.09 17:29:01.930  child.out EXIT(226)
+2020.07.09 17:29:01.932  child.out sleep 17
+2020.07.09 17:29:06.306  child.out I am first 
+2020.07.09 17:29:06.306  child.out EXIT(209)
+2020.07.09 17:29:06.308  child.out sleep 18
+2020.07.09 17:29:09.315  child.out I am second 
+2020.07.09 17:29:09.315  child.out EXIT(71)
+2020.07.09 17:29:09.317  child.out sleep 1
+2020.07.09 17:29:11.121  child.out Banana   
+2020.07.09 17:29:11.121  child.out SIGNAL(15).Terminated
+2020.07.09 17:29:11.124  child.out sleep 12
+2020.07.09 17:29:11.318  child.out I am second 
+2020.07.09 17:29:11.318  child.out SIGNAL(1).Hangup
+2020.07.09 17:29:11.321  child.out sleep 16
+2020.07.09 17:29:19.934  child.out Bayern Munich  
+2020.07.09 17:29:19.934  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:29:19.936  child.out sleep 9
+2020.07.09 17:29:24.125  child.out Banana   
+2020.07.09 17:29:24.125  child.out EXIT(176)
+2020.07.09 17:29:24.128  child.out sleep 2
+2020.07.09 17:29:25.309  child.out I am first 
+2020.07.09 17:29:25.309  child.out EXIT(179)
+2020.07.09 17:29:25.312  child.out sleep 18
+2020.07.09 17:29:27.128  child.out Banana   
+2020.07.09 17:29:27.128  child.out EXIT(185)
+2020.07.09 17:29:27.131  child.out sleep 4
+2020.07.09 17:29:28.322  child.out I am second 
+2020.07.09 17:29:28.322  child.out EXIT(52)
+2020.07.09 17:29:28.324  child.out sleep 8
+2020.07.09 17:29:29.937  child.out Bayern Munich  
+2020.07.09 17:29:29.938  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:29:29.941  child.out sleep 9
+2020.07.09 17:29:32.132  child.out Banana   
+2020.07.09 17:29:32.132  child.out EXIT(76)
+2020.07.09 17:29:32.135  child.out sleep 1
+2020.07.09 17:29:34.135  child.out Banana   
+2020.07.09 17:29:34.135  child.out SIGNAL(1).Hangup
+2020.07.09 17:29:34.138  child.out sleep 13
+2020.07.09 17:29:37.325  child.out I am second 
+2020.07.09 17:29:37.325  child.out EXIT(56)
+2020.07.09 17:29:37.328  child.out sleep 5
+2020.07.09 17:29:39.941  child.out Bayern Munich  
+2020.07.09 17:29:39.941  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:29:39.945  child.out sleep 17
+2020.07.09 17:29:43.329  child.out I am second 
+2020.07.09 17:29:43.329  child.out SIGNAL(3).Quit
+2020.07.09 17:29:43.500  child.out sleep 8
+2020.07.09 17:29:44.312  child.out I am first 
+2020.07.09 17:29:44.312  child.out EXIT(241)
+2020.07.09 17:29:44.315  child.out sleep 10
+2020.07.09 17:29:48.139  child.out Banana   
+2020.07.09 17:29:48.139  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:29:48.148  child.out sleep 17
+2020.07.09 17:29:52.502  child.out I am second 
+2020.07.09 17:29:52.502  child.out EXIT(60)
+2020.07.09 17:29:52.505  child.out sleep 4
+2020.07.09 17:29:55.317  child.out I am first 
+2020.07.09 17:29:55.317  child.out EXIT(241)
+2020.07.09 17:29:55.320  child.out sleep 8
+2020.07.09 17:29:57.506  child.out I am second 
+2020.07.09 17:29:57.506  child.out EXIT(188)
+2020.07.09 17:29:57.510  child.out sleep 9
+2020.07.09 17:29:57.946  child.out Bayern Munich  
+2020.07.09 17:29:57.946  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:29:58.069  child.out sleep 16
+2020.07.09 17:30:04.321  child.out I am first 
+2020.07.09 17:30:04.321  child.out EXIT(142)
+2020.07.09 17:30:04.324  child.out sleep 3
+2020.07.09 17:30:06.149  child.out Banana   
+2020.07.09 17:30:06.149  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:30:06.159  child.out sleep 18
+2020.07.09 17:30:07.510  child.out I am second 
+2020.07.09 17:30:07.510  child.out SIGNAL(15).Terminated
+2020.07.09 17:30:07.518  child.out sleep 13
+2020.07.09 17:30:08.325  child.out I am first 
+2020.07.09 17:30:08.325  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:30:08.333  child.out sleep 10
+2020.07.09 17:30:15.070  child.out Bayern Munich  
+2020.07.09 17:30:15.070  child.out EXIT(116)
+2020.07.09 17:30:15.075  child.out sleep 1
+2020.07.09 17:30:17.075  child.out Bayern Munich  
+2020.07.09 17:30:17.075  child.out SIGNAL(6).Aborted
+2020.07.09 17:30:17.258  child.out sleep 6
+2020.07.09 17:30:19.334  child.out I am first 
+2020.07.09 17:30:19.334  child.out EXIT(189)
+2020.07.09 17:30:19.337  child.out sleep 4
+2020.07.09 17:30:21.520  child.out I am second 
+2020.07.09 17:30:21.520  child.out SIGNAL(7).Bus error
+2020.07.09 17:30:21.687  child.out sleep 15
+2020.07.09 17:30:24.258  child.out Bayern Munich  
+2020.07.09 17:30:24.258  child.out EXIT(65)
+2020.07.09 17:30:24.261  child.out sleep 9
+2020.07.09 17:30:24.338  child.out I am first 
+2020.07.09 17:30:24.338  child.out EXIT(116)
+2020.07.09 17:30:24.341  child.out sleep 11
+2020.07.09 17:30:25.160  child.out Banana   
+2020.07.09 17:30:25.160  child.out EXIT(251)
+2020.07.09 17:30:25.164  child.out sleep 8
+2020.07.09 17:30:34.164  child.out Banana   
+2020.07.09 17:30:34.164  child.out EXIT(140)
+2020.07.09 17:30:34.168  child.out sleep 0
+2020.07.09 17:30:34.263  child.out Bayern Munich  
+2020.07.09 17:30:34.263  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:30:34.401  child.out sleep 5
+2020.07.09 17:30:35.169  child.out Banana   
+2020.07.09 17:30:35.169  child.out EXIT(104)
+2020.07.09 17:30:35.174  child.out sleep 5
+2020.07.09 17:30:36.343  child.out I am first 
+2020.07.09 17:30:36.343  child.out SIGNAL(6).Aborted
+2020.07.09 17:30:36.469  child.out sleep 9
+2020.07.09 17:30:37.688  child.out I am second 
+2020.07.09 17:30:37.688  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:30:37.699  child.out sleep 9
+2020.07.09 17:30:40.401  child.out Bayern Munich  
+2020.07.09 17:30:40.401  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:30:40.542  child.out sleep 1
+2020.07.09 17:30:41.175  child.out Banana   
+2020.07.09 17:30:41.177  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:30:41.186  child.out sleep 1
+2020.07.09 17:30:42.543  child.out Bayern Munich  
+2020.07.09 17:30:42.543  child.out SIGNAL(6).Aborted
+2020.07.09 17:30:42.693  child.out sleep 16
+2020.07.09 17:30:43.186  child.out Banana   
+2020.07.09 17:30:43.186  child.out SIGNAL(1).Hangup
+2020.07.09 17:30:43.193  child.out sleep 13
+2020.07.09 17:30:46.470  child.out I am first 
+2020.07.09 17:30:46.470  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:30:46.475  child.out sleep 19
+2020.07.09 17:30:47.701  child.out I am second 
+2020.07.09 17:30:47.701  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:30:47.895  child.out sleep 18
+2020.07.09 17:30:57.194  child.out Banana   
+2020.07.09 17:30:57.194  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:30:57.200  child.out sleep 5
+2020.07.09 17:30:59.694  child.out Bayern Munich  
+2020.07.09 17:30:59.694  child.out EXIT(108)
+2020.07.09 17:30:59.697  child.out sleep 1
+2020.07.09 17:31:01.697  child.out Bayern Munich  
+2020.07.09 17:31:01.697  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:31:01.888  child.out sleep 18
+2020.07.09 17:31:03.201  child.out Banana   
+2020.07.09 17:31:03.201  child.out SIGNAL(3).Quit
+2020.07.09 17:31:03.339  child.out sleep 0
+2020.07.09 17:31:04.341  child.out Banana   
+2020.07.09 17:31:04.341  child.out EXIT(98)
+2020.07.09 17:31:04.345  child.out sleep 1
+2020.07.09 17:31:06.346  child.out Banana   
+2020.07.09 17:31:06.346  child.out SIGNAL(6).Aborted
+2020.07.09 17:31:06.476  child.out I am first 
+2020.07.09 17:31:06.476  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:31:06.492  child.out sleep 4
+2020.07.09 17:31:06.598  child.out sleep 16
+2020.07.09 17:31:06.896  child.out I am second 
+2020.07.09 17:31:06.896  child.out EXIT(159)
+2020.07.09 17:31:06.901  child.out sleep 10
+2020.07.09 17:31:11.493  child.out Banana   
+2020.07.09 17:31:11.493  child.out EXIT(48)
+2020.07.09 17:31:11.500  child.out sleep 1
+2020.07.09 17:31:13.502  child.out Banana   
+2020.07.09 17:31:13.502  child.out SIGNAL(1).Hangup
+2020.07.09 17:31:13.506  child.out sleep 15
+2020.07.09 17:31:17.902  child.out I am second 
+2020.07.09 17:31:17.902  child.out EXIT(93)
+2020.07.09 17:31:17.906  child.out sleep 19
+2020.07.09 17:31:20.889  child.out Bayern Munich  
+2020.07.09 17:31:20.889  child.out EXIT(123)
+2020.07.09 17:31:20.904  child.out sleep 13
+2020.07.09 17:31:23.599  child.out I am first 
+2020.07.09 17:31:23.599  child.out EXIT(76)
+2020.07.09 17:31:23.610  child.out sleep 6
+2020.07.09 17:31:29.507  child.out Banana   
+2020.07.09 17:31:29.507  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:31:29.512  child.out sleep 19
+2020.07.09 17:31:30.615  child.out I am first 
+2020.07.09 17:31:30.615  child.out EXIT(157)
+2020.07.09 17:31:30.624  child.out sleep 7
+2020.07.09 17:31:34.904  child.out Bayern Munich  
+2020.07.09 17:31:34.904  child.out SIGNAL(2).Interrupt
+2020.07.09 17:31:34.916  child.out sleep 19
+2020.07.09 17:31:37.911  child.out I am second 
+2020.07.09 17:31:37.911  child.out SIGNAL(15).Terminated
+2020.07.09 17:31:37.915  child.out sleep 16
+2020.07.09 17:31:38.625  child.out I am first 
+2020.07.09 17:31:38.625  child.out SIGNAL(9).Killed
+2020.07.09 17:31:38.630  child.out sleep 12
+2020.07.09 17:31:49.513  child.out Banana   
+2020.07.09 17:31:49.513  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:31:49.516  child.out sleep 5
+2020.07.09 17:31:51.630  child.out I am first 
+2020.07.09 17:31:51.630  child.out EXIT(244)
+2020.07.09 17:31:51.634  child.out sleep 17
+2020.07.09 17:31:54.916  child.out I am second 
+2020.07.09 17:31:54.916  child.out EXIT(160)
+2020.07.09 17:31:54.916  child.out Bayern Munich  
+2020.07.09 17:31:54.916  child.out SIGNAL(15).Terminated
+2020.07.09 17:31:54.927  child.out sleep 16
+2020.07.09 17:31:54.927  child.out sleep 13
+2020.07.09 17:31:55.517  child.out Banana   
+2020.07.09 17:31:55.517  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:31:55.534  child.out sleep 3
+2020.07.09 17:31:59.534  child.out Banana   
+2020.07.09 17:31:59.534  child.out SIGNAL(2).Interrupt
+2020.07.09 17:31:59.538  child.out sleep 13
+2020.07.09 17:32:08.928  child.out Bayern Munich  
+2020.07.09 17:32:08.928  child.out SIGNAL(7).Bus error
+2020.07.09 17:32:09.109  child.out sleep 10
+2020.07.09 17:32:09.634  child.out I am first 
+2020.07.09 17:32:09.634  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:32:09.836  child.out sleep 9
+2020.07.09 17:32:11.927  child.out I am second 
+2020.07.09 17:32:11.927  child.out EXIT(148)
+2020.07.09 17:32:11.931  child.out sleep 15
+2020.07.09 17:32:13.539  child.out Banana   
+2020.07.09 17:32:13.539  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:32:13.543  child.out sleep 0
+2020.07.09 17:32:14.543  child.out Banana   
+2020.07.09 17:32:14.543  child.out EXIT(194)
+2020.07.09 17:32:14.545  child.out sleep 16
+2020.07.09 17:32:19.838  child.out I am first 
+2020.07.09 17:32:19.838  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:32:19.847  child.out sleep 2
+2020.07.09 17:32:20.110  child.out Bayern Munich  
+2020.07.09 17:32:20.110  child.out EXIT(193)
+2020.07.09 17:32:20.118  child.out sleep 8
+2020.07.09 17:32:22.848  child.out I am first 
+2020.07.09 17:32:22.848  child.out EXIT(247)
+2020.07.09 17:32:22.856  child.out sleep 15
+2020.07.09 17:32:27.931  child.out I am second 
+2020.07.09 17:32:27.931  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:32:28.091  child.out sleep 10
+2020.07.09 17:32:29.119  child.out Bayern Munich  
+2020.07.09 17:32:29.119  child.out EXIT(84)
+2020.07.09 17:32:29.130  child.out sleep 0
+2020.07.09 17:32:30.131  child.out Bayern Munich  
+2020.07.09 17:32:30.131  child.out EXIT(30)
+2020.07.09 17:32:30.134  child.out sleep 11
+2020.07.09 17:32:31.546  child.out Banana   
+2020.07.09 17:32:31.547  child.out EXIT(0)
+2020.07.09 17:32:31.555  child.out sleep 2
+2020.07.09 17:32:34.556  child.out Banana   
+2020.07.09 17:32:34.556  child.out EXIT(95)
+2020.07.09 17:32:34.560  child.out sleep 7
+2020.07.09 17:32:38.857  child.out I am first 
+2020.07.09 17:32:38.857  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:32:38.865  child.out sleep 15
+2020.07.09 17:32:39.091  child.out I am second 
+2020.07.09 17:32:39.091  child.out EXIT(247)
+2020.07.09 17:32:39.098  child.out sleep 4
+2020.07.09 17:32:42.134  child.out Bayern Munich  
+2020.07.09 17:32:42.134  child.out SIGNAL(6).Aborted
+2020.07.09 17:32:42.272  child.out sleep 7
+2020.07.09 17:32:42.561  child.out Banana   
+2020.07.09 17:32:42.561  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:32:42.732  child.out sleep 6
+2020.07.09 17:32:44.099  child.out I am second 
+2020.07.09 17:32:44.099  child.out EXIT(54)
+2020.07.09 17:32:44.107  child.out sleep 1
+2020.07.09 17:32:46.108  child.out I am second 
+2020.07.09 17:32:46.108  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:32:46.231  child.out sleep 16
+2020.07.09 17:32:49.733  child.out Banana   
+2020.07.09 17:32:49.733  child.out EXIT(181)
+2020.07.09 17:32:49.742  child.out sleep 5
+2020.07.09 17:32:50.273  child.out Bayern Munich  
+2020.07.09 17:32:50.273  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:32:50.283  child.out sleep 11
+2020.07.09 17:32:54.866  child.out I am first 
+2020.07.09 17:32:54.866  child.out SIGNAL(3).Quit
+2020.07.09 17:32:55.035  child.out sleep 13
+2020.07.09 17:32:55.742  child.out Banana   
+2020.07.09 17:32:55.742  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:32:55.746  child.out sleep 0
+2020.07.09 17:32:56.747  child.out Banana   
+2020.07.09 17:32:56.747  child.out EXIT(124)
+2020.07.09 17:32:56.755  child.out sleep 14
+2020.07.09 17:33:02.284  child.out Bayern Munich  
+2020.07.09 17:33:02.284  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:33:02.425  child.out sleep 15
+2020.07.09 17:33:03.232  child.out I am second 
+2020.07.09 17:33:03.232  child.out EXIT(70)
+2020.07.09 17:33:03.236  child.out sleep 11
+2020.07.09 17:33:09.036  child.out I am first 
+2020.07.09 17:33:09.037  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:33:09.044  child.out sleep 5
+2020.07.09 17:33:11.757  child.out Banana   
+2020.07.09 17:33:11.757  child.out EXIT(35)
+2020.07.09 17:33:11.765  child.out sleep 19
+2020.07.09 17:33:15.044  child.out I am first 
+2020.07.09 17:33:15.044  child.out SIGNAL(3).Quit
+2020.07.09 17:33:15.168  child.out sleep 6
+2020.07.09 17:33:15.237  child.out I am second 
+2020.07.09 17:33:15.237  child.out SIGNAL(1).Hangup
+2020.07.09 17:33:15.240  child.out sleep 15
+2020.07.09 17:33:18.425  child.out Bayern Munich  
+2020.07.09 17:33:18.425  child.out SIGNAL(3).Quit
+2020.07.09 17:33:18.560  child.out sleep 13
+2020.07.09 17:33:22.169  child.out I am first 
+2020.07.09 17:33:22.169  child.out EXIT(7)
+2020.07.09 17:33:22.177  child.out sleep 9
+2020.07.09 17:33:31.241  child.out I am second 
+2020.07.09 17:33:31.241  child.out SIGNAL(3).Quit
+2020.07.09 17:33:31.397  child.out sleep 16
+2020.07.09 17:33:31.766  child.out Banana   
+2020.07.09 17:33:31.766  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:33:31.774  child.out sleep 15
+2020.07.09 17:33:32.178  child.out I am first 
+2020.07.09 17:33:32.178  child.out SIGNAL(15).Terminated
+2020.07.09 17:33:32.186  child.out sleep 12
+2020.07.09 17:33:32.561  child.out Bayern Munich  
+2020.07.09 17:33:32.561  child.out SIGNAL(2).Interrupt
+2020.07.09 17:33:32.570  child.out sleep 18
+2020.07.09 17:33:45.186  child.out I am first 
+2020.07.09 17:33:45.186  child.out EXIT(178)
+2020.07.09 17:33:45.194  child.out sleep 3
+2020.07.09 17:33:47.775  child.out Banana   
+2020.07.09 17:33:47.775  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:33:47.783  child.out sleep 11
+2020.07.09 17:33:48.398  child.out I am second 
+2020.07.09 17:33:48.398  child.out EXIT(208)
+2020.07.09 17:33:48.407  child.out sleep 18
+2020.07.09 17:33:49.194  child.out I am first 
+2020.07.09 17:33:49.194  child.out SIGNAL(7).Bus error
+2020.07.09 17:33:49.372  child.out sleep 12
+2020.07.09 17:33:51.570  child.out Bayern Munich  
+2020.07.09 17:33:51.570  child.out EXIT(59)
+2020.07.09 17:33:51.579  child.out sleep 7
+2020.07.09 17:33:59.580  child.out Bayern Munich  
+2020.07.09 17:33:59.580  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:33:59.588  child.out sleep 14
+2020.07.09 17:33:59.784  child.out Banana   
+2020.07.09 17:33:59.784  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:33:59.930  child.out sleep 3
+2020.07.09 17:34:02.373  child.out I am first 
+2020.07.09 17:34:02.373  child.out EXIT(94)
+2020.07.09 17:34:02.380  child.out sleep 0
+2020.07.09 17:34:03.380  child.out I am first 
+2020.07.09 17:34:03.381  child.out EXIT(218)
+2020.07.09 17:34:03.388  child.out sleep 17
+2020.07.09 17:34:03.931  child.out Banana   
+2020.07.09 17:34:03.931  child.out SIGNAL(2).Interrupt
+2020.07.09 17:34:03.939  child.out sleep 0
+2020.07.09 17:34:04.940  child.out Banana   
+2020.07.09 17:34:04.940  child.out EXIT(118)
+2020.07.09 17:34:04.946  child.out sleep 1
+2020.07.09 17:34:06.947  child.out Banana   
+2020.07.09 17:34:06.947  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:34:07.092  child.out sleep 10
+2020.07.09 17:34:07.408  child.out I am second 
+2020.07.09 17:34:07.408  child.out EXIT(183)
+2020.07.09 17:34:07.414  child.out sleep 19
+2020.07.09 17:34:14.589  child.out Bayern Munich  
+2020.07.09 17:34:14.589  child.out EXIT(235)
+2020.07.09 17:34:14.597  child.out sleep 4
+2020.07.09 17:34:18.093  child.out Banana   
+2020.07.09 17:34:18.093  child.out EXIT(65)
+2020.07.09 17:34:18.101  child.out sleep 8
+2020.07.09 17:34:19.598  child.out Bayern Munich  
+2020.07.09 17:34:19.598  child.out EXIT(244)
+2020.07.09 17:34:19.609  child.out sleep 19
+2020.07.09 17:34:21.388  child.out I am first 
+2020.07.09 17:34:21.388  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:34:21.396  child.out sleep 8
+2020.07.09 17:34:27.102  child.out Banana   
+2020.07.09 17:34:27.102  child.out EXIT(86)
+2020.07.09 17:34:27.109  child.out sleep 14
+2020.07.09 17:34:27.415  child.out I am second 
+2020.07.09 17:34:27.415  child.out SIGNAL(15).Terminated
+2020.07.09 17:34:27.422  child.out sleep 13
+2020.07.09 17:34:30.397  child.out I am first 
+2020.07.09 17:34:30.397  child.out EXIT(54)
+2020.07.09 17:34:30.406  child.out sleep 8
+2020.07.09 17:34:39.407  child.out I am first 
+2020.07.09 17:34:39.407  child.out EXIT(152)
+2020.07.09 17:34:39.415  child.out sleep 12
+2020.07.09 17:34:39.610  child.out Bayern Munich  
+2020.07.09 17:34:39.610  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:34:39.755  child.out sleep 16
+2020.07.09 17:34:41.424  child.out I am second 
+2020.07.09 17:34:41.424  child.out SIGNAL(7).Bus error
+2020.07.09 17:34:41.570  child.out sleep 14
+2020.07.09 17:34:42.111  child.out Banana   
+2020.07.09 17:34:42.111  child.out EXIT(77)
+2020.07.09 17:34:42.119  child.out sleep 5
+2020.07.09 17:34:48.120  child.out Banana   
+2020.07.09 17:34:48.120  child.out SIGNAL(3).Quit
+2020.07.09 17:34:48.282  child.out sleep 13
+2020.07.09 17:34:52.415  child.out I am first 
+2020.07.09 17:34:52.415  child.out EXIT(156)
+2020.07.09 17:34:52.423  child.out sleep 7
+2020.07.09 17:34:56.571  child.out I am second 
+2020.07.09 17:34:56.571  child.out EXIT(153)
+2020.07.09 17:34:56.576  child.out sleep 4
+2020.07.09 17:34:56.756  child.out Bayern Munich  
+2020.07.09 17:34:56.756  child.out EXIT(6)
+2020.07.09 17:34:56.763  child.out sleep 19
+2020.07.09 17:35:00.424  child.out I am first 
+2020.07.09 17:35:00.424  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:35:00.592  child.out sleep 6
+2020.07.09 17:35:01.576  child.out I am second 
+2020.07.09 17:35:01.576  child.out EXIT(228)
+2020.07.09 17:35:01.580  child.out sleep 7
+2020.07.09 17:35:02.283  child.out Banana   
+2020.07.09 17:35:02.283  child.out SIGNAL(7).Bus error
+2020.07.09 17:35:02.433  child.out sleep 3
+2020.07.09 17:35:06.434  child.out Banana   
+2020.07.09 17:35:06.434  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:35:06.441  child.out sleep 17
+2020.07.09 17:35:07.593  child.out I am first 
+2020.07.09 17:35:07.593  child.out EXIT(169)
+2020.07.09 17:35:07.601  child.out sleep 6
+2020.07.09 17:35:09.581  child.out I am second 
+2020.07.09 17:35:09.581  child.out SIGNAL(9).Killed
+2020.07.09 17:35:09.584  child.out sleep 5
+2020.07.09 17:35:14.602  child.out I am first 
+2020.07.09 17:35:14.602  child.out EXIT(133)
+2020.07.09 17:35:14.611  child.out sleep 18
+2020.07.09 17:35:15.586  child.out I am second 
+2020.07.09 17:35:15.586  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:35:15.746  child.out sleep 18
+2020.07.09 17:35:16.767  child.out Bayern Munich  
+2020.07.09 17:35:16.767  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:35:16.777  child.out sleep 3
+2020.07.09 17:35:20.780  child.out Bayern Munich  
+2020.07.09 17:35:20.780  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:35:20.788  child.out sleep 7
+2020.07.09 17:35:24.442  child.out Banana   
+2020.07.09 17:35:24.442  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:35:24.450  child.out sleep 13
+2020.07.09 17:35:28.789  child.out Bayern Munich  
+2020.07.09 17:35:28.789  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:35:28.798  child.out sleep 2
+2020.07.09 17:35:31.798  child.out Bayern Munich  
+2020.07.09 17:35:31.798  child.out EXIT(179)
+2020.07.09 17:35:31.806  child.out sleep 14
+2020.07.09 17:35:33.613  child.out I am first 
+2020.07.09 17:35:33.613  child.out EXIT(191)
+2020.07.09 17:35:33.620  child.out sleep 6
+2020.07.09 17:35:34.747  child.out I am second 
+2020.07.09 17:35:34.747  child.out EXIT(181)
+2020.07.09 17:35:34.755  child.out sleep 16
+2020.07.09 17:35:38.452  child.out Banana   
+2020.07.09 17:35:38.452  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:35:38.460  child.out sleep 12
+2020.07.09 17:35:40.621  child.out I am first 
+2020.07.09 17:35:40.621  child.out EXIT(83)
+2020.07.09 17:35:40.629  child.out sleep 4
+2020.07.09 17:35:45.630  child.out I am first 
+2020.07.09 17:35:45.630  child.out EXIT(184)
+2020.07.09 17:35:45.639  child.out sleep 3
+2020.07.09 17:35:46.807  child.out Bayern Munich  
+2020.07.09 17:35:46.807  child.out EXIT(127)
+2020.07.09 17:35:46.817  child.out sleep 5
+2020.07.09 17:35:49.640  child.out I am first 
+2020.07.09 17:35:49.640  child.out SIGNAL(7).Bus error
+2020.07.09 17:35:49.783  child.out sleep 3
+2020.07.09 17:35:51.460  child.out Banana   
+2020.07.09 17:35:51.460  child.out EXIT(210)
+2020.07.09 17:35:51.471  child.out sleep 4
+2020.07.09 17:35:51.755  child.out I am second 
+2020.07.09 17:35:51.755  child.out EXIT(166)
+2020.07.09 17:35:51.760  child.out sleep 1
+2020.07.09 17:35:52.818  child.out Bayern Munich  
+2020.07.09 17:35:52.818  child.out SIGNAL(3).Quit
+2020.07.09 17:35:52.970  child.out sleep 9
+2020.07.09 17:35:53.760  child.out I am second 
+2020.07.09 17:35:53.760  child.out SIGNAL(6).Aborted
+2020.07.09 17:35:53.783  child.out I am first 
+2020.07.09 17:35:53.783  child.out SIGNAL(7).Bus error
+2020.07.09 17:35:53.913  child.out sleep 1
+2020.07.09 17:35:53.930  child.out sleep 16
+2020.07.09 17:35:55.914  child.out I am second 
+2020.07.09 17:35:55.914  child.out SIGNAL(6).Aborted
+2020.07.09 17:35:56.095  child.out sleep 13
+2020.07.09 17:35:56.472  child.out Banana   
+2020.07.09 17:35:56.472  child.out EXIT(114)
+2020.07.09 17:35:56.481  child.out sleep 0
+2020.07.09 17:35:57.481  child.out Banana   
+2020.07.09 17:35:57.481  child.out EXIT(208)
+2020.07.09 17:35:57.490  child.out sleep 11
+2020.07.09 17:36:02.971  child.out Bayern Munich  
+2020.07.09 17:36:02.971  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:36:03.128  child.out sleep 4
+2020.07.09 17:36:08.128  child.out Bayern Munich  
+2020.07.09 17:36:08.128  child.out EXIT(200)
+2020.07.09 17:36:08.137  child.out sleep 10
+2020.07.09 17:36:09.495  child.out Banana   
+2020.07.09 17:36:09.495  child.out SIGNAL(6).Aborted
+2020.07.09 17:36:09.705  child.out sleep 18
+2020.07.09 17:36:10.095  child.out I am second 
+2020.07.09 17:36:10.095  child.out SIGNAL(7).Bus error
+2020.07.09 17:36:10.224  child.out sleep 17
+2020.07.09 17:36:10.930  child.out I am first 
+2020.07.09 17:36:10.930  child.out EXIT(44)
+2020.07.09 17:36:10.934  child.out sleep 8
+2020.07.09 17:36:19.137  child.out Bayern Munich  
+2020.07.09 17:36:19.137  child.out EXIT(37)
+2020.07.09 17:36:19.140  child.out sleep 0
+2020.07.09 17:36:19.935  child.out I am first 
+2020.07.09 17:36:19.935  child.out EXIT(108)
+2020.07.09 17:36:19.937  child.out sleep 2
+2020.07.09 17:36:20.140  child.out Bayern Munich  
+2020.07.09 17:36:20.140  child.out EXIT(242)
+2020.07.09 17:36:20.143  child.out sleep 16
+2020.07.09 17:36:22.938  child.out I am first 
+2020.07.09 17:36:22.938  child.out EXIT(159)
+2020.07.09 17:36:22.941  child.out sleep 19
+2020.07.09 17:36:28.226  child.out I am second 
+2020.07.09 17:36:28.226  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:36:28.234  child.out sleep 4
+2020.07.09 17:36:28.706  child.out Banana   
+2020.07.09 17:36:28.706  child.out EXIT(213)
+2020.07.09 17:36:28.714  child.out sleep 1
+2020.07.09 17:36:30.715  child.out Banana   
+2020.07.09 17:36:30.715  child.out SIGNAL(1).Hangup
+2020.07.09 17:36:30.723  child.out sleep 3
+2020.07.09 17:36:33.235  child.out I am second 
+2020.07.09 17:36:33.235  child.out EXIT(114)
+2020.07.09 17:36:33.242  child.out sleep 10
+2020.07.09 17:36:34.724  child.out Banana   
+2020.07.09 17:36:34.724  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:36:34.733  child.out sleep 12
+2020.07.09 17:36:37.143  child.out Bayern Munich  
+2020.07.09 17:36:37.143  child.out EXIT(20)
+2020.07.09 17:36:37.154  child.out sleep 13
+2020.07.09 17:36:42.941  child.out I am first 
+2020.07.09 17:36:42.941  child.out SIGNAL(15).Terminated
+2020.07.09 17:36:42.949  child.out sleep 16
+2020.07.09 17:36:44.244  child.out I am second 
+2020.07.09 17:36:44.244  child.out EXIT(47)
+2020.07.09 17:36:44.255  child.out sleep 5
+2020.07.09 17:36:47.733  child.out Banana   
+2020.07.09 17:36:47.733  child.out EXIT(216)
+2020.07.09 17:36:47.741  child.out sleep 13
+2020.07.09 17:36:50.257  child.out I am second 
+2020.07.09 17:36:50.257  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:36:50.418  child.out sleep 14
+2020.07.09 17:36:51.156  child.out Bayern Munich  
+2020.07.09 17:36:51.156  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:36:51.159  child.out sleep 17
+2020.07.09 17:36:59.949  child.out I am first 
+2020.07.09 17:36:59.949  child.out EXIT(78)
+2020.07.09 17:36:59.958  child.out sleep 10
+2020.07.09 17:37:01.742  child.out Banana   
+2020.07.09 17:37:01.742  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:37:01.750  child.out sleep 10
+2020.07.09 17:37:05.418  child.out I am second 
+2020.07.09 17:37:05.418  child.out EXIT(221)
+2020.07.09 17:37:05.422  child.out sleep 12
+2020.07.09 17:37:09.160  child.out Bayern Munich  
+2020.07.09 17:37:09.160  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:37:09.164  child.out sleep 18
+2020.07.09 17:37:10.958  child.out I am first 
+2020.07.09 17:37:10.958  child.out EXIT(133)
+2020.07.09 17:37:10.967  child.out sleep 15
+2020.07.09 17:37:12.752  child.out Banana   
+2020.07.09 17:37:12.752  child.out EXIT(187)
+2020.07.09 17:37:12.761  child.out sleep 15
+2020.07.09 17:37:18.423  child.out I am second 
+2020.07.09 17:37:18.423  child.out EXIT(78)
+2020.07.09 17:37:18.431  child.out sleep 5
+2020.07.09 17:37:24.432  child.out I am second 
+2020.07.09 17:37:24.432  child.out SIGNAL(3).Quit
+2020.07.09 17:37:24.571  child.out sleep 11
+2020.07.09 17:37:26.968  child.out I am first 
+2020.07.09 17:37:26.968  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:37:26.977  child.out sleep 2
+2020.07.09 17:37:28.165  child.out Bayern Munich  
+2020.07.09 17:37:28.165  child.out EXIT(23)
+2020.07.09 17:37:28.174  child.out sleep 1
+2020.07.09 17:37:28.762  child.out Banana   
+2020.07.09 17:37:28.762  child.out SIGNAL(3).Quit
+2020.07.09 17:37:28.911  child.out sleep 3
+2020.07.09 17:37:29.978  child.out I am first 
+2020.07.09 17:37:29.978  child.out EXIT(167)
+2020.07.09 17:37:29.986  child.out sleep 17
+2020.07.09 17:37:30.174  child.out Bayern Munich  
+2020.07.09 17:37:30.175  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:37:30.296  child.out sleep 2
+2020.07.09 17:37:32.912  child.out Banana   
+2020.07.09 17:37:32.912  child.out SIGNAL(2).Interrupt
+2020.07.09 17:37:32.922  child.out sleep 4
+2020.07.09 17:37:33.296  child.out Bayern Munich  
+2020.07.09 17:37:33.297  child.out EXIT(203)
+2020.07.09 17:37:33.307  child.out sleep 3
+2020.07.09 17:37:36.572  child.out I am second 
+2020.07.09 17:37:36.572  child.out SIGNAL(6).Aborted
+2020.07.09 17:37:36.712  child.out sleep 0
+2020.07.09 17:37:37.308  child.out Bayern Munich  
+2020.07.09 17:37:37.308  child.out SIGNAL(2).Interrupt
+2020.07.09 17:37:37.315  child.out sleep 8
+2020.07.09 17:37:37.713  child.out I am second 
+2020.07.09 17:37:37.713  child.out EXIT(24)
+2020.07.09 17:37:37.720  child.out sleep 14
+2020.07.09 17:37:37.922  child.out Banana   
+2020.07.09 17:37:37.922  child.out EXIT(54)
+2020.07.09 17:37:37.931  child.out sleep 1
+2020.07.09 17:37:39.932  child.out Banana   
+2020.07.09 17:37:39.932  child.out SIGNAL(6).Aborted
+2020.07.09 17:37:40.100  child.out sleep 4
+2020.07.09 17:37:45.101  child.out Banana   
+2020.07.09 17:37:45.101  child.out EXIT(108)
+2020.07.09 17:37:45.105  child.out sleep 6
+2020.07.09 17:37:46.316  child.out Bayern Munich  
+2020.07.09 17:37:46.316  child.out EXIT(172)
+2020.07.09 17:37:46.324  child.out sleep 2
+2020.07.09 17:37:47.987  child.out I am first 
+2020.07.09 17:37:47.987  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:37:48.140  child.out sleep 10
+2020.07.09 17:37:49.325  child.out Bayern Munich  
+2020.07.09 17:37:49.325  child.out EXIT(229)
+2020.07.09 17:37:49.328  child.out sleep 16
+2020.07.09 17:37:52.106  child.out Banana   
+2020.07.09 17:37:52.106  child.out EXIT(143)
+2020.07.09 17:37:52.114  child.out sleep 11
+2020.07.09 17:37:52.720  child.out I am second 
+2020.07.09 17:37:52.720  child.out EXIT(165)
+2020.07.09 17:37:52.723  child.out sleep 2
+2020.07.09 17:37:55.724  child.out I am second 
+2020.07.09 17:37:55.724  child.out EXIT(221)
+2020.07.09 17:37:55.732  child.out sleep 11
+2020.07.09 17:37:59.141  child.out I am first 
+2020.07.09 17:37:59.141  child.out EXIT(203)
+2020.07.09 17:37:59.144  child.out sleep 14
+2020.07.09 17:38:04.115  child.out Banana   
+2020.07.09 17:38:04.115  child.out SIGNAL(6).Aborted
+2020.07.09 17:38:04.276  child.out sleep 5
+2020.07.09 17:38:06.329  child.out Bayern Munich  
+2020.07.09 17:38:06.329  child.out EXIT(6)
+2020.07.09 17:38:06.332  child.out sleep 2
+2020.07.09 17:38:07.733  child.out I am second 
+2020.07.09 17:38:07.734  child.out SIGNAL(6).Aborted
+2020.07.09 17:38:07.769  child.out sleep 17
+2020.07.09 17:38:07.769  child.out sleep 18
+2020.07.09 17:38:07.769  child.out sleep 10
+2020.07.09 17:38:07.770  child.out sleep 15
+2020.07.09 17:38:18.770  child.out Banana   
+2020.07.09 17:38:18.770  child.out EXIT(217)
+2020.07.09 17:38:18.778  child.out sleep 16
+2020.07.09 17:38:23.771  child.out Bayern Munich  
+2020.07.09 17:38:23.771  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:38:23.914  child.out sleep 8
+2020.07.09 17:38:25.769  child.out I am first 
+2020.07.09 17:38:25.769  child.out SIGNAL(9).Killed
+2020.07.09 17:38:25.777  child.out sleep 0
+2020.07.09 17:38:26.769  child.out I am second 
+2020.07.09 17:38:26.769  child.out EXIT(83)
+2020.07.09 17:38:26.777  child.out sleep 0
+2020.07.09 17:38:26.778  child.out I am first 
+2020.07.09 17:38:26.778  child.out EXIT(76)
+2020.07.09 17:38:26.788  child.out sleep 11
+2020.07.09 17:38:27.778  child.out I am second 
+2020.07.09 17:38:27.778  child.out EXIT(166)
+2020.07.09 17:38:27.786  child.out sleep 10
+2020.07.09 17:38:32.915  child.out Bayern Munich  
+2020.07.09 17:38:32.915  child.out EXIT(188)
+2020.07.09 17:38:32.923  child.out sleep 2
+2020.07.09 17:38:35.779  child.out Banana   
+2020.07.09 17:38:35.779  child.out EXIT(56)
+2020.07.09 17:38:35.787  child.out sleep 4
+2020.07.09 17:38:35.924  child.out Bayern Munich  
+2020.07.09 17:38:35.924  child.out EXIT(187)
+2020.07.09 17:38:35.933  child.out sleep 19
+2020.07.09 17:38:38.788  child.out I am second 
+2020.07.09 17:38:38.788  child.out EXIT(135)
+2020.07.09 17:38:38.789  child.out I am first 
+2020.07.09 17:38:38.789  child.out SIGNAL(6).Aborted
+2020.07.09 17:38:38.797  child.out sleep 4
+2020.07.09 17:38:38.922  child.out sleep 4
+2020.07.09 17:38:40.788  child.out Banana   
+2020.07.09 17:38:40.788  child.out EXIT(6)
+2020.07.09 17:38:40.797  child.out sleep 12
+2020.07.09 17:38:43.798  child.out I am second 
+2020.07.09 17:38:43.798  child.out EXIT(122)
+2020.07.09 17:38:43.805  child.out sleep 9
+2020.07.09 17:38:43.923  child.out I am first 
+2020.07.09 17:38:43.923  child.out EXIT(34)
+2020.07.09 17:38:43.927  child.out sleep 12
+2020.07.09 17:38:49.015  child.out sleep 1
+2020.07.09 17:38:49.016  child.out sleep 7
+2020.07.09 17:38:49.016  child.out sleep 8
+2020.07.09 17:38:49.017  child.out sleep 15
+2020.07.09 17:38:51.017  child.out I am first 
+2020.07.09 17:38:51.017  child.out SIGNAL(6).Aborted
+2020.07.09 17:38:51.181  child.out sleep 10
+2020.07.09 17:38:57.017  child.out Bayern Munich  
+2020.07.09 17:38:57.017  child.out SIGNAL(9).Killed
+2020.07.09 17:38:57.025  child.out sleep 15
+2020.07.09 17:38:58.017  child.out Banana   
+2020.07.09 17:38:58.017  child.out EXIT(172)
+2020.07.09 17:38:58.026  child.out sleep 10
+2020.07.09 17:39:02.183  child.out I am first 
+2020.07.09 17:39:02.183  child.out EXIT(75)
+2020.07.09 17:39:02.192  child.out sleep 5
+2020.07.09 17:39:02.942  child.out sleep 3
+2020.07.09 17:39:02.942  child.out sleep 2
+2020.07.09 17:39:02.942  child.out sleep 11
+2020.07.09 17:39:02.943  child.out sleep 15
+2020.07.09 17:39:05.942  child.out Banana   
+2020.07.09 17:39:05.942  child.out EXIT(205)
+2020.07.09 17:39:05.950  child.out sleep 0
+2020.07.09 17:39:06.944  child.out I am first 
+2020.07.09 17:39:06.944  child.out SIGNAL(2).Interrupt
+2020.07.09 17:39:06.951  child.out Banana   
+2020.07.09 17:39:06.951  child.out EXIT(204)
+2020.07.09 17:39:06.952  child.out sleep 8
+2020.07.09 17:39:06.959  child.out sleep 2
+2020.07.09 17:39:09.960  child.out Banana   
+2020.07.09 17:39:09.960  child.out EXIT(95)
+2020.07.09 17:39:09.969  child.out sleep 18
+2020.07.09 17:39:14.943  child.out Bayern Munich  
+2020.07.09 17:39:14.943  child.out SIGNAL(1).Hangup
+2020.07.09 17:39:14.951  child.out sleep 5
+2020.07.09 17:39:15.952  child.out I am first 
+2020.07.09 17:39:15.952  child.out EXIT(138)
+2020.07.09 17:39:15.960  child.out sleep 5
+2020.07.09 17:39:18.943  child.out I am second 
+2020.07.09 17:39:18.943  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:39:18.953  child.out sleep 9
+2020.07.09 17:39:20.951  child.out Bayern Munich  
+2020.07.09 17:39:20.951  child.out SIGNAL(3).Quit
+2020.07.09 17:39:21.115  child.out sleep 16
+2020.07.09 17:39:21.961  child.out I am first 
+2020.07.09 17:39:21.961  child.out SIGNAL(3).Quit
+2020.07.09 17:39:22.120  child.out sleep 16
+2020.07.09 17:40:39.603  child.out sleep 7
+2020.07.09 17:40:39.603  child.out sleep 7
+2020.07.09 17:40:39.604  child.out sleep 2
+2020.07.09 17:40:39.604  child.out sleep 10
+2020.07.09 17:40:42.604  child.out I am second 
+2020.07.09 17:40:42.604  child.out EXIT(245)
+2020.07.09 17:40:42.612  child.out sleep 3
+2020.07.09 17:40:46.613  child.out I am second 
+2020.07.09 17:40:46.613  child.out SIGNAL(7).Bus error
+2020.07.09 17:40:46.764  child.out sleep 15
+2020.07.09 17:40:47.604  child.out Bayern Munich  
+2020.07.09 17:40:47.604  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:40:47.604  child.out Banana   
+2020.07.09 17:40:47.604  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:40:47.612  child.out sleep 5
+2020.07.09 17:40:47.612  child.out sleep 12
+2020.07.09 17:40:50.604  child.out I am first 
+2020.07.09 17:40:50.604  child.out EXIT(225)
+2020.07.09 17:40:50.612  child.out sleep 9
+2020.07.09 17:40:53.614  child.out Banana   
+2020.07.09 17:40:53.614  child.out SIGNAL(3).Quit
+2020.07.09 17:40:53.767  child.out sleep 5
+2020.07.09 17:40:59.768  child.out Banana   
+2020.07.09 17:40:59.768  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:40:59.778  child.out sleep 17
+2020.07.09 17:41:00.613  child.out I am first 
+2020.07.09 17:41:00.613  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:41:00.613  child.out Bayern Munich  
+2020.07.09 17:41:00.613  child.out EXIT(164)
+2020.07.09 17:41:00.622  child.out sleep 7
+2020.07.09 17:41:00.775  child.out sleep 16
+2020.07.09 17:41:02.764  child.out I am second 
+2020.07.09 17:41:02.764  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:41:02.767  child.out sleep 9
+2020.07.09 17:41:08.623  child.out Bayern Munich  
+2020.07.09 17:41:08.623  child.out SIGNAL(9).Killed
+2020.07.09 17:41:08.629  child.out sleep 19
+2020.07.09 17:41:12.768  child.out I am second 
+2020.07.09 17:41:12.768  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:41:12.777  child.out sleep 14
+2020.07.09 17:41:17.776  child.out I am first 
+2020.07.09 17:41:17.776  child.out EXIT(44)
+2020.07.09 17:41:17.779  child.out Banana   
+2020.07.09 17:41:17.779  child.out SIGNAL(9).Killed
+2020.07.09 17:41:17.784  child.out sleep 17
+2020.07.09 17:41:17.785  child.out sleep 0
+2020.07.09 17:41:18.787  child.out Banana   
+2020.07.09 17:41:18.787  child.out EXIT(194)
+2020.07.09 17:41:18.792  child.out sleep 19
+2020.07.09 17:41:27.778  child.out I am second 
+2020.07.09 17:41:27.778  child.out EXIT(223)
+2020.07.09 17:41:27.786  child.out sleep 13
+2020.07.09 17:41:28.631  child.out Bayern Munich  
+2020.07.09 17:41:28.631  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:41:28.639  child.out sleep 7
+2020.07.09 17:41:35.786  child.out I am first 
+2020.07.09 17:41:35.786  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:41:35.794  child.out sleep 19
+2020.07.09 17:41:36.640  child.out Bayern Munich  
+2020.07.09 17:41:36.640  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:41:36.647  child.out sleep 1
+2020.07.09 17:41:38.648  child.out Bayern Munich  
+2020.07.09 17:41:38.648  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:41:38.792  child.out Banana   
+2020.07.09 17:41:38.793  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:41:38.802  child.out sleep 11
+2020.07.09 17:41:38.907  child.out sleep 18
+2020.07.09 17:41:41.787  child.out I am second 
+2020.07.09 17:41:41.787  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:41:41.794  child.out sleep 16
+2020.07.09 17:41:50.803  child.out Bayern Munich  
+2020.07.09 17:41:50.803  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:41:50.963  child.out sleep 12
+2020.07.09 17:41:55.795  child.out I am first 
+2020.07.09 17:41:55.795  child.out SIGNAL(15).Terminated
+2020.07.09 17:41:55.802  child.out sleep 17
+2020.07.09 17:41:57.908  child.out Banana   
+2020.07.09 17:41:57.908  child.out EXIT(139)
+2020.07.09 17:41:57.916  child.out sleep 17
+2020.07.09 17:41:58.795  child.out I am second 
+2020.07.09 17:41:58.795  child.out EXIT(48)
+2020.07.09 17:41:58.805  child.out sleep 4
+2020.07.09 17:42:03.806  child.out I am second 
+2020.07.09 17:42:03.806  child.out EXIT(220)
+2020.07.09 17:42:03.813  child.out sleep 5
+2020.07.09 17:42:03.964  child.out Bayern Munich  
+2020.07.09 17:42:03.964  child.out EXIT(170)
+2020.07.09 17:42:03.973  child.out sleep 14
+2020.07.09 17:42:09.814  child.out I am second 
+2020.07.09 17:42:09.814  child.out SIGNAL(3).Quit
+2020.07.09 17:42:09.950  child.out sleep 0
+2020.07.09 17:42:10.950  child.out I am second 
+2020.07.09 17:42:10.950  child.out EXIT(106)
+2020.07.09 17:42:10.959  child.out sleep 9
+2020.07.09 17:42:13.803  child.out I am first 
+2020.07.09 17:42:13.803  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:42:13.941  child.out sleep 10
+2020.07.09 17:42:15.917  child.out Banana   
+2020.07.09 17:42:15.917  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:42:16.067  child.out sleep 18
+2020.07.09 17:42:18.974  child.out Bayern Munich  
+2020.07.09 17:42:18.974  child.out EXIT(81)
+2020.07.09 17:42:18.983  child.out sleep 17
+2020.07.09 17:42:20.959  child.out I am second 
+2020.07.09 17:42:20.959  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:42:20.966  child.out sleep 10
+2020.07.09 17:42:24.943  child.out I am first 
+2020.07.09 17:42:24.943  child.out EXIT(157)
+2020.07.09 17:42:24.950  child.out sleep 2
+2020.07.09 17:42:27.951  child.out I am first 
+2020.07.09 17:42:27.951  child.out EXIT(157)
+2020.07.09 17:42:27.954  child.out sleep 16
+2020.07.09 17:42:31.967  child.out I am second 
+2020.07.09 17:42:31.967  child.out EXIT(139)
+2020.07.09 17:42:31.975  child.out sleep 7
+2020.07.09 17:42:35.068  child.out Banana   
+2020.07.09 17:42:35.068  child.out EXIT(167)
+2020.07.09 17:42:35.075  child.out sleep 16
+2020.07.09 17:42:36.985  child.out Bayern Munich  
+2020.07.09 17:42:36.985  child.out SIGNAL(9).Killed
+2020.07.09 17:42:36.993  child.out sleep 17
+2020.07.09 17:42:39.975  child.out I am second 
+2020.07.09 17:42:39.976  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:42:39.983  child.out sleep 14
+2020.07.09 17:42:44.955  child.out I am first 
+2020.07.09 17:42:44.955  child.out EXIT(82)
+2020.07.09 17:42:44.962  child.out sleep 6
+2020.07.09 17:42:51.963  child.out I am first 
+2020.07.09 17:42:51.963  child.out EXIT(157)
+2020.07.09 17:42:51.968  child.out sleep 16
+2020.07.09 17:42:52.076  child.out Banana   
+2020.07.09 17:42:52.076  child.out EXIT(84)
+2020.07.09 17:42:52.086  child.out sleep 11
+2020.07.09 17:42:54.985  child.out I am second 
+2020.07.09 17:42:54.985  child.out EXIT(167)
+2020.07.09 17:42:54.994  child.out sleep 14
+2020.07.09 17:42:54.994  child.out Bayern Munich  
+2020.07.09 17:42:54.994  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:42:55.010  child.out sleep 18
+2020.07.09 17:43:04.088  child.out Banana   
+2020.07.09 17:43:04.088  child.out SIGNAL(1).Hangup
+2020.07.09 17:43:04.096  child.out sleep 15
+2020.07.09 17:43:08.969  child.out I am first 
+2020.07.09 17:43:08.969  child.out EXIT(152)
+2020.07.09 17:43:08.978  child.out sleep 7
+2020.07.09 17:43:09.995  child.out I am second 
+2020.07.09 17:43:09.995  child.out EXIT(235)
+2020.07.09 17:43:10.003  child.out sleep 16
+2020.07.09 17:43:14.011  child.out Bayern Munich  
+2020.07.09 17:43:14.011  child.out EXIT(235)
+2020.07.09 17:43:14.019  child.out sleep 16
+2020.07.09 17:43:16.979  child.out I am first 
+2020.07.09 17:43:16.979  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:43:17.108  child.out sleep 3
+2020.07.09 17:43:20.096  child.out Banana   
+2020.07.09 17:43:20.096  child.out SIGNAL(3).Quit
+2020.07.09 17:43:20.239  child.out sleep 17
+2020.07.09 17:43:21.109  child.out I am first 
+2020.07.09 17:43:21.109  child.out SIGNAL(7).Bus error
+2020.07.09 17:43:21.259  child.out sleep 4
+2020.07.09 17:43:26.260  child.out I am first 
+2020.07.09 17:43:26.260  child.out EXIT(236)
+2020.07.09 17:43:26.268  child.out sleep 3
+2020.07.09 17:43:27.005  child.out I am second 
+2020.07.09 17:43:27.005  child.out EXIT(32)
+2020.07.09 17:43:27.013  child.out sleep 17
+2020.07.09 17:43:30.268  child.out I am first 
+2020.07.09 17:43:30.268  child.out SIGNAL(2).Interrupt
+2020.07.09 17:43:30.276  child.out sleep 0
+2020.07.09 17:43:31.020  child.out Bayern Munich  
+2020.07.09 17:43:31.020  child.out EXIT(0)
+2020.07.09 17:43:31.027  child.out sleep 1
+2020.07.09 17:43:31.277  child.out I am first 
+2020.07.09 17:43:31.277  child.out EXIT(64)
+2020.07.09 17:43:31.282  child.out sleep 19
+2020.07.09 17:43:33.028  child.out Bayern Munich  
+2020.07.09 17:43:33.028  child.out SIGNAL(1).Hangup
+2020.07.09 17:43:33.036  child.out sleep 16
+2020.07.09 17:43:38.241  child.out Banana   
+2020.07.09 17:43:38.241  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:43:38.401  child.out sleep 8
+2020.07.09 17:43:45.014  child.out I am second 
+2020.07.09 17:43:45.014  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:43:45.024  child.out sleep 9
+2020.07.09 17:43:47.402  child.out Banana   
+2020.07.09 17:43:47.402  child.out EXIT(68)
+2020.07.09 17:43:47.407  child.out sleep 11
+2020.07.09 17:43:50.037  child.out Bayern Munich  
+2020.07.09 17:43:50.037  child.out EXIT(104)
+2020.07.09 17:43:50.047  child.out sleep 9
+2020.07.09 17:43:51.283  child.out I am first 
+2020.07.09 17:43:51.283  child.out SIGNAL(10).User defined signal 1
+2020.07.09 17:43:51.294  child.out sleep 10
+2020.07.09 17:43:55.024  child.out I am second 
+2020.07.09 17:43:55.024  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:43:55.175  child.out sleep 17
+2020.07.09 17:43:59.407  child.out Banana   
+2020.07.09 17:43:59.408  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:43:59.568  child.out sleep 12
+2020.07.09 17:44:00.048  child.out Bayern Munich  
+2020.07.09 17:44:00.048  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:44:00.204  child.out sleep 15
+2020.07.09 17:44:02.295  child.out I am first 
+2020.07.09 17:44:02.295  child.out EXIT(11)
+2020.07.09 17:44:02.301  child.out sleep 10
+2020.07.09 17:44:12.570  child.out Banana   
+2020.07.09 17:44:12.570  child.out EXIT(2)
+2020.07.09 17:44:12.572  child.out sleep 6
+2020.07.09 17:44:13.175  child.out I am second 
+2020.07.09 17:44:13.175  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:44:13.293  child.out sleep 0
+2020.07.09 17:44:13.302  child.out I am first 
+2020.07.09 17:44:13.302  child.out EXIT(109)
+2020.07.09 17:44:13.305  child.out sleep 16
+2020.07.09 17:44:14.293  child.out I am second 
+2020.07.09 17:44:14.293  child.out EXIT(6)
+2020.07.09 17:44:14.301  child.out sleep 16
+2020.07.09 17:44:16.204  child.out Bayern Munich  
+2020.07.09 17:44:16.204  child.out SIGNAL(3).Quit
+2020.07.09 17:44:16.359  child.out sleep 11
+2020.07.09 17:44:19.573  child.out Banana   
+2020.07.09 17:44:19.573  child.out EXIT(97)
+2020.07.09 17:44:19.581  child.out sleep 18
+2020.07.09 17:44:28.360  child.out Bayern Munich  
+2020.07.09 17:44:28.360  child.out SIGNAL(11).Segmentation fault
+2020.07.09 17:44:28.519  child.out sleep 1
+2020.07.09 17:44:30.306  child.out I am first 
+2020.07.09 17:44:30.306  child.out EXIT(52)
+2020.07.09 17:44:30.314  child.out sleep 5
+2020.07.09 17:44:30.519  child.out Bayern Munich  
+2020.07.09 17:44:30.519  child.out SIGNAL(6).Aborted
+2020.07.09 17:44:30.644  child.out sleep 15
+2020.07.09 17:44:31.302  child.out I am second 
+2020.07.09 17:44:31.302  child.out EXIT(234)
+2020.07.09 17:44:31.305  child.out sleep 18
+2020.07.09 17:44:36.315  child.out I am first 
+2020.07.09 17:44:36.315  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:44:36.454  child.out sleep 10
+2020.07.09 17:44:38.582  child.out Banana   
+2020.07.09 17:44:38.582  child.out EXIT(127)
+2020.07.09 17:44:38.585  child.out sleep 2
+2020.07.09 17:44:41.585  child.out Banana   
+2020.07.09 17:44:41.585  child.out EXIT(47)
+2020.07.09 17:44:41.594  child.out sleep 14
+2020.07.09 17:44:46.645  child.out Bayern Munich  
+2020.07.09 17:44:46.645  child.out SIGNAL(3).Quit
+2020.07.09 17:44:46.791  child.out sleep 15
+2020.07.09 17:44:47.455  child.out I am first 
+2020.07.09 17:44:47.455  child.out EXIT(67)
+2020.07.09 17:44:47.464  child.out sleep 14
+2020.07.09 17:44:50.306  child.out I am second 
+2020.07.09 17:44:50.306  child.out EXIT(219)
+2020.07.09 17:44:50.314  child.out sleep 8
+2020.07.09 17:44:56.595  child.out Banana   
+2020.07.09 17:44:56.595  child.out EXIT(69)
+2020.07.09 17:44:56.602  child.out sleep 15
+2020.07.09 17:44:59.315  child.out I am second 
+2020.07.09 17:44:59.315  child.out EXIT(208)
+2020.07.09 17:44:59.323  child.out sleep 19
+2020.07.09 17:45:02.465  child.out I am first 
+2020.07.09 17:45:02.465  child.out EXIT(113)
+2020.07.09 17:45:02.472  child.out sleep 1
+2020.07.09 17:45:02.791  child.out Bayern Munich  
+2020.07.09 17:45:02.791  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:45:02.918  child.out sleep 19
+2020.07.09 17:45:04.474  child.out I am first 
+2020.07.09 17:45:04.474  child.out SIGNAL(6).Aborted
+2020.07.09 17:45:04.612  child.out sleep 7
+2020.07.09 17:45:12.603  child.out Banana   
+2020.07.09 17:45:12.603  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:45:12.611  child.out sleep 11
+2020.07.09 17:45:12.614  child.out I am first 
+2020.07.09 17:45:12.614  child.out SIGNAL(9).Killed
+2020.07.09 17:45:12.624  child.out sleep 9
+2020.07.09 17:45:19.324  child.out I am second 
+2020.07.09 17:45:19.324  child.out SIGNAL(15).Terminated
+2020.07.09 17:45:19.333  child.out sleep 8
+2020.07.09 17:45:22.625  child.out I am first 
+2020.07.09 17:45:22.625  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:45:22.792  child.out sleep 6
+2020.07.09 17:45:22.919  child.out Bayern Munich  
+2020.07.09 17:45:22.919  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:45:23.062  child.out sleep 19
+2020.07.09 17:45:24.613  child.out Banana   
+2020.07.09 17:45:24.613  child.out SIGNAL(1).Hangup
+2020.07.09 17:45:24.621  child.out sleep 16
+2020.07.09 17:45:28.334  child.out I am second 
+2020.07.09 17:45:28.334  child.out EXIT(220)
+2020.07.09 17:45:28.342  child.out sleep 15
+2020.07.09 17:45:29.793  child.out I am first 
+2020.07.09 17:45:29.793  child.out EXIT(29)
+2020.07.09 17:45:29.800  child.out sleep 4
+2020.07.09 17:45:34.801  child.out I am first 
+2020.07.09 17:45:34.801  child.out EXIT(202)
+2020.07.09 17:45:34.809  child.out sleep 10
+2020.07.09 17:45:41.623  child.out Banana   
+2020.07.09 17:45:41.623  child.out EXIT(220)
+2020.07.09 17:45:41.629  child.out sleep 13
+2020.07.09 17:45:43.062  child.out Bayern Munich  
+2020.07.09 17:45:43.062  child.out SIGNAL(15).Terminated
+2020.07.09 17:45:43.070  child.out sleep 7
+2020.07.09 17:45:44.343  child.out I am second 
+2020.07.09 17:45:44.343  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:45:44.354  child.out sleep 19
+2020.07.09 17:45:45.811  child.out I am first 
+2020.07.09 17:45:45.811  child.out EXIT(31)
+2020.07.09 17:45:45.818  child.out sleep 6
+2020.07.09 17:45:51.071  child.out Bayern Munich  
+2020.07.09 17:45:51.071  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:45:51.079  child.out sleep 8
+2020.07.09 17:45:52.819  child.out I am first 
+2020.07.09 17:45:52.819  child.out EXIT(203)
+2020.07.09 17:45:52.827  child.out sleep 4
+2020.07.09 17:45:55.629  child.out Banana   
+2020.07.09 17:45:55.629  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:45:55.638  child.out sleep 5
+2020.07.09 17:45:57.828  child.out I am first 
+2020.07.09 17:45:57.828  child.out EXIT(162)
+2020.07.09 17:45:57.836  child.out sleep 14
+2020.07.09 17:46:00.080  child.out Bayern Munich  
+2020.07.09 17:46:00.080  child.out EXIT(80)
+2020.07.09 17:46:00.085  child.out sleep 9
+2020.07.09 17:46:01.639  child.out Banana   
+2020.07.09 17:46:01.639  child.out SIGNAL(8).Floating point exception
+2020.07.09 17:46:01.789  child.out sleep 18
+2020.07.09 17:46:04.354  child.out I am second 
+2020.07.09 17:46:04.354  child.out SIGNAL(15).Terminated
+2020.07.09 17:46:04.359  child.out sleep 10
+2020.07.09 17:46:10.086  child.out Bayern Munich  
+2020.07.09 17:46:10.086  child.out SIGNAL(5).Trace/breakpoint trap
+2020.07.09 17:46:10.238  child.out sleep 4
+2020.07.09 17:46:12.837  child.out I am first 
+2020.07.09 17:46:12.837  child.out EXIT(197)
+2020.07.09 17:46:12.846  child.out sleep 14
+2020.07.09 17:46:15.239  child.out Bayern Munich  
+2020.07.09 17:46:15.239  child.out EXIT(198)
+2020.07.09 17:46:15.247  child.out sleep 2
+2020.07.09 17:46:15.360  child.out I am second 
+2020.07.09 17:46:15.360  child.out EXIT(185)
+2020.07.09 17:46:15.365  child.out sleep 3
+2020.07.09 17:46:18.248  child.out Bayern Munich  
+2020.07.09 17:46:18.248  child.out EXIT(181)
+2020.07.09 17:46:18.255  child.out sleep 0
+2020.07.09 17:46:19.256  child.out Bayern Munich  
+2020.07.09 17:46:19.256  child.out EXIT(210)
+2020.07.09 17:46:19.263  child.out sleep 18
+2020.07.09 17:46:19.366  child.out I am second 
+2020.07.09 17:46:19.366  child.out SIGNAL(7).Bus error
+2020.07.09 17:46:19.496  child.out sleep 7
+2020.07.09 17:46:20.789  child.out Banana   
+2020.07.09 17:46:20.789  child.out EXIT(143)
+2020.07.09 17:46:20.798  child.out sleep 3
+2020.07.09 17:46:24.800  child.out Banana   
+2020.07.09 17:46:24.800  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:46:24.804  child.out sleep 16
+2020.07.09 17:46:27.497  child.out I am second 
+2020.07.09 17:46:27.497  child.out SIGNAL(4).Illegal instruction
+2020.07.09 17:46:27.652  child.out sleep 4
+2020.07.09 17:46:27.847  child.out I am first 
+2020.07.09 17:46:27.847  child.out EXIT(189)
+2020.07.09 17:46:27.854  child.out sleep 6
+2020.07.09 17:46:32.653  child.out I am second 
+2020.07.09 17:46:32.653  child.out EXIT(162)
+2020.07.09 17:46:32.660  child.out sleep 16
+2020.07.09 17:46:34.856  child.out I am first 
+2020.07.09 17:46:34.856  child.out EXIT(37)
+2020.07.09 17:46:34.861  child.out sleep 1
+2020.07.09 17:46:36.862  child.out I am first 
+2020.07.09 17:46:36.862  child.out SIGNAL(1).Hangup
+2020.07.09 17:46:36.867  child.out sleep 4
+2020.07.09 17:46:38.264  child.out Bayern Munich  
+2020.07.09 17:46:38.264  child.out EXIT(113)
+2020.07.09 17:46:38.273  child.out sleep 3
+2020.07.09 17:46:41.805  child.out Banana   
+2020.07.09 17:46:41.805  child.out EXIT(170)
+2020.07.09 17:46:41.815  child.out sleep 6
+2020.07.09 17:46:41.868  child.out I am first 
+2020.07.09 17:46:41.868  child.out EXIT(200)
+2020.07.09 17:46:41.885  child.out sleep 3
+2020.07.09 17:46:42.274  child.out Bayern Munich  
+2020.07.09 17:46:42.274  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:46:42.277  child.out sleep 2
+2020.07.09 17:46:45.278  child.out Bayern Munich  
+2020.07.09 17:46:45.278  child.out EXIT(55)
+2020.07.09 17:46:45.286  child.out sleep 11
+2020.07.09 17:46:45.885  child.out I am first 
+2020.07.09 17:46:45.885  child.out SIGNAL(2).Interrupt
+2020.07.09 17:46:45.892  child.out sleep 15
+2020.07.09 17:46:48.816  child.out Banana   
+2020.07.09 17:46:48.816  child.out EXIT(69)
+2020.07.09 17:46:48.819  child.out sleep 9
+2020.07.09 17:46:49.661  child.out I am second 
+2020.07.09 17:46:49.661  child.out EXIT(180)
+2020.07.09 17:46:49.671  child.out sleep 14
+2020.07.09 17:46:57.287  child.out Bayern Munich  
+2020.07.09 17:46:57.287  child.out SIGNAL(6).Aborted
+2020.07.09 17:46:57.448  child.out sleep 16
+2020.07.09 17:46:58.820  child.out Banana   
+2020.07.09 17:46:58.820  child.out SIGNAL(15).Terminated
+2020.07.09 17:46:58.823  child.out sleep 7
+2020.07.09 17:47:01.893  child.out I am first 
+2020.07.09 17:47:01.893  child.out SIGNAL(13).Broken pipe
+2020.07.09 17:47:01.901  child.out sleep 13
+2020.07.09 17:47:04.672  child.out I am second 
+2020.07.09 17:47:04.672  child.out EXIT(255)
+2020.07.09 17:47:04.676  child.out sleep 13
+2020.07.09 17:47:06.824  child.out Banana   
+2020.07.09 17:47:06.824  child.out SIGNAL(14).Alarm clock
+2020.07.09 17:47:06.833  child.out sleep 17
+2020.07.09 17:47:14.449  child.out Bayern Munich  
+2020.07.09 17:47:14.449  child.out EXIT(112)
+2020.07.09 17:47:14.487  child.out sleep 4
+2020.07.09 17:47:15.901  child.out I am first 
+2020.07.09 17:47:15.901  child.out SIGNAL(2).Interrupt
+2020.07.09 17:47:15.910  child.out sleep 9
+2020.07.09 17:47:18.676  child.out I am second 
+2020.07.09 17:47:18.676  child.out SIGNAL(12).User defined signal 2
+2020.07.09 17:47:18.685  child.out sleep 18
+2020.07.09 17:47:19.488  child.out Bayern Munich  
+2020.07.09 17:47:19.488  child.out EXIT(240)
+2020.07.09 17:47:19.496  child.out sleep 10
