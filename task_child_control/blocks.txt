@@ -1,4 +1,4 @@
-sw_app.out ; I ; am ; first ;
-sw_app.out ; I ; am ; second ;
-sw_app.out ; Banana ;
-sw_app.out ; Bayern ; Munich
+sw_app.out ; I ; am ; genius ;
+sw_app.out ; I ; am ; jaehun ;
+sw_app.out ; Apple ;
+sw_app.out ; Jann ; Fiete ; Arp ;

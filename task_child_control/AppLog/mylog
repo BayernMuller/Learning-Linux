@@ -4956,3 +4956,103 @@
 2020.07.16 19:01:17.989  sw_app.out Bayern Munich  
 2020.07.16 19:01:17.990  sw_app.out SIGNAL(4).Illegal instruction
 2020.07.16 19:01:18.142  sw_app.out sleep 10
+2020.07.16 19:03:53.683  sw_app.out sleep 18
+2020.07.16 19:03:53.683  sw_app.out sleep 8
+2020.07.16 19:03:53.684  sw_app.out sleep 1
+2020.07.16 19:03:53.688  sw_app.out sleep 14
+2020.07.16 19:03:55.684  sw_app.out I am second 
+2020.07.16 19:03:55.684  sw_app.out SIGNAL(6).Aborted
+2020.07.16 19:03:55.872  sw_app.out sleep 17
+2020.07.16 19:04:02.684  sw_app.out Bayern Munich  
+2020.07.16 19:04:02.684  sw_app.out EXIT(184)
+2020.07.16 19:04:02.692  sw_app.out sleep 15
+2020.07.16 19:04:08.689  sw_app.out I am first 
+2020.07.16 19:04:08.689  sw_app.out EXIT(151)
+2020.07.16 19:04:08.696  sw_app.out sleep 14
+2020.07.16 19:04:12.683  sw_app.out Banana   
+2020.07.16 19:04:12.683  sw_app.out EXIT(11)
+2020.07.16 19:04:12.720  sw_app.out sleep 14
+2020.07.16 19:04:13.872  sw_app.out I am second 
+2020.07.16 19:04:13.872  sw_app.out SIGNAL(14).Alarm clock
+2020.07.16 19:04:13.876  sw_app.out sleep 11
+2020.07.16 19:04:18.693  sw_app.out Bayern Munich  
+2020.07.16 19:04:18.693  sw_app.out SIGNAL(13).Broken pipe
+2020.07.16 19:04:18.696  sw_app.out sleep 14
+2020.07.16 19:04:23.697  sw_app.out I am first 
+2020.07.16 19:04:23.697  sw_app.out EXIT(11)
+2020.07.16 19:04:23.702  sw_app.out sleep 9
+2020.07.16 19:04:25.877  sw_app.out I am second 
+2020.07.16 19:04:25.877  sw_app.out SIGNAL(11).Segmentation fault
+2020.07.16 19:04:25.988  sw_app.out sleep 17
+2020.07.16 19:04:27.721  sw_app.out Banana   
+2020.07.16 19:04:27.721  sw_app.out EXIT(147)
+2020.07.16 19:04:27.723  sw_app.out sleep 2
+2020.07.16 19:04:30.724  sw_app.out Banana   
+2020.07.16 19:04:30.724  sw_app.out EXIT(117)
+2020.07.16 19:04:30.726  sw_app.out sleep 12
+2020.07.16 19:04:33.697  sw_app.out Bayern Munich  
+2020.07.16 19:04:33.697  sw_app.out EXIT(59)
+2020.07.16 19:04:33.702  sw_app.out I am first 
+2020.07.16 19:04:33.702  sw_app.out SIGNAL(5).Trace/breakpoint trap
+2020.07.16 19:04:33.708  sw_app.out sleep 13
+2020.07.16 19:04:33.819  sw_app.out sleep 17
+2020.07.16 19:04:43.727  sw_app.out Banana   
+2020.07.16 19:04:43.727  sw_app.out EXIT(128)
+2020.07.16 19:04:43.752  sw_app.out sleep 10
+2020.07.16 19:04:43.989  sw_app.out I am second 
+2020.07.16 19:04:43.989  sw_app.out SIGNAL(14).Alarm clock
+2020.07.16 19:04:43.992  sw_app.out sleep 1
+2020.07.16 19:04:45.993  sw_app.out I am second 
+2020.07.16 19:04:45.993  sw_app.out SIGNAL(6).Aborted
+2020.07.16 19:05:41.937  sw_app.out sleep 6
+2020.07.16 19:05:41.938  sw_app.out sleep 0
+2020.07.16 19:05:41.938  sw_app.out sleep 19
+2020.07.16 19:05:41.938  sw_app.out sleep 12
+2020.07.16 19:05:42.938  sw_app.out I am jaehun 
+2020.07.16 19:05:42.938  sw_app.out EXIT(158)
+2020.07.16 19:05:42.946  sw_app.out sleep 5
+2020.07.16 19:05:48.938  sw_app.out I am genius 
+2020.07.16 19:05:48.938  sw_app.out EXIT(141)
+2020.07.16 19:05:48.947  sw_app.out I am jaehun 
+2020.07.16 19:05:48.947  sw_app.out SIGNAL(13).Broken pipe
+2020.07.16 19:05:48.948  sw_app.out sleep 4
+2020.07.16 19:05:48.956  sw_app.out sleep 1
+2020.07.16 19:05:50.958  sw_app.out I am jaehun 
+2020.07.16 19:05:50.958  sw_app.out SIGNAL(1).Hangup
+2020.07.16 19:05:50.967  sw_app.out sleep 5
+2020.07.16 19:05:53.949  sw_app.out I am genius 
+2020.07.16 19:05:53.949  sw_app.out EXIT(98)
+2020.07.16 19:05:53.955  sw_app.out sleep 13
+2020.07.16 19:05:54.939  sw_app.out Apple   
+2020.07.16 19:05:54.939  sw_app.out EXIT(150)
+2020.07.16 19:05:54.943  sw_app.out sleep 11
+2020.07.16 19:05:56.968  sw_app.out I am jaehun 
+2020.07.16 19:05:56.968  sw_app.out SIGNAL(8).Floating point exception
+2020.07.16 19:05:57.085  sw_app.out sleep 9
+2020.07.16 19:06:01.939  sw_app.out Jann Fiete Arp 
+2020.07.16 19:06:01.939  sw_app.out SIGNAL(10).User defined signal 1
+2020.07.16 19:06:01.948  sw_app.out sleep 2
+2020.07.16 19:06:04.949  sw_app.out Jann Fiete Arp 
+2020.07.16 19:06:04.949  sw_app.out EXIT(219)
+2020.07.16 19:06:04.952  sw_app.out sleep 8
+2020.07.16 19:06:06.944  sw_app.out Apple   
+2020.07.16 19:06:06.944  sw_app.out SIGNAL(1).Hangup
+2020.07.16 19:06:06.954  sw_app.out sleep 17
+2020.07.16 19:06:07.085  sw_app.out I am jaehun 
+2020.07.16 19:06:07.085  sw_app.out SIGNAL(15).Terminated
+2020.07.16 19:06:07.091  sw_app.out sleep 5
+2020.07.16 19:06:07.957  sw_app.out I am genius 
+2020.07.16 19:06:07.957  sw_app.out SIGNAL(12).User defined signal 2
+2020.07.16 19:06:07.968  sw_app.out sleep 9
+2020.07.16 19:06:13.091  sw_app.out I am jaehun 
+2020.07.16 19:06:13.091  sw_app.out SIGNAL(8).Floating point exception
+2020.07.16 19:06:13.219  sw_app.out sleep 17
+2020.07.16 19:06:13.953  sw_app.out Jann Fiete Arp 
+2020.07.16 19:06:13.953  sw_app.out EXIT(204)
+2020.07.16 19:06:13.964  sw_app.out sleep 1
+2020.07.16 19:06:15.965  sw_app.out Jann Fiete Arp 
+2020.07.16 19:06:15.965  sw_app.out SIGNAL(11).Segmentation fault
+2020.07.16 19:06:16.127  sw_app.out sleep 14
+2020.07.16 19:06:17.969  sw_app.out I am genius 
+2020.07.16 19:06:17.969  sw_app.out SIGNAL(5).Trace/breakpoint trap
+2020.07.16 19:06:18.099  sw_app.out sleep 17
