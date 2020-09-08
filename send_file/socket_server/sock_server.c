@@ -3,6 +3,10 @@
 #include <sys/socket.h>
 #include <arpa/inet.h> //inet_addr
 #include <unistd.h>    //write
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <stdlib.h>
+#include <fcntl.h>
 
 int main(int argc, char *argv[])
 {
@@ -54,21 +58,28 @@ int main(int argc, char *argv[])
 
 	read_size = read(client_sock, client_message, sizeof(client_message));
 	client_message[read_size] = 0;
-	printf(client_message);
-	memset(&client_message, 0, sizeof(client_message));
+	printf("%s request received.\n", client_message);
+	//memset(&client_message, 0, sizeof(client_message));
 	
-
-	if (read_size == 0)
-	{
-		puts("Client disconnected");
-		fflush(stdout);
-	}
-	else if (read_size == -1)
-	{
-		perror("recv failed");
-	}
 	
+	struct stat info;
+	stat(client_message, &info);
+	int size = info.st_size;
+	printf("%d\n", size);
+	unsigned char* buf = malloc(info.st_size);
+	int fd = open(client_message, O_RDONLY);
+	if (fd == -1)
+	{
+		printf("open error\n");
+	}
+	read(fd, buf, info.st_size);
+	printf(buf);
+	send(client_sock, &size, sizeof(int), 0);
+	send(client_sock, buf, size, 0);
+	printf("end");
+	close(fd);
 	close(client_sock);
 	close(socket_desc);
+	free(buf);
 	return 0;
 }
